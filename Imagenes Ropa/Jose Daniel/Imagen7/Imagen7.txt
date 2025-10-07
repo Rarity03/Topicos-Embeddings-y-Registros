@@ -1,0 +1,9 @@
+Tipo, Sueter
+Talla, CH
+Color, Azul Brezo
+Temporada, Invierno
+Genero, Mujer
+Estilo, Estampado de Harry Potter
+Pais, Estados Unidos
+Marca, 
+Modelo, WBHH0239-60135120

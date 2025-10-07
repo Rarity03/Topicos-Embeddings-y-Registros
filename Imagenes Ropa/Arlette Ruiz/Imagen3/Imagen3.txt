@@ -1,0 +1,9 @@
+Tipo: Chamarra
+Talla: Grande
+Color: Blanco sucio
+Temporada: Invierno
+Género: Mujer
+Estilo: Acolchada
+País: China
+Marca: Pioneer Camp
+Modelo: 

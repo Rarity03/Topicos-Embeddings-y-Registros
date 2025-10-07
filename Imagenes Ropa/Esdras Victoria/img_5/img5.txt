@@ -1,0 +1,9 @@
+Tipo: Blazer
+Talla: XS
+Color: Azul
+Temporada: 
+Genero: Mujer
+Estilo: Corto Satinado de fit recto
+País: México
+Marca: HIGHSTREET
+Modelo: 

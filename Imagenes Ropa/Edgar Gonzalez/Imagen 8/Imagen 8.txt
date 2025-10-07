@@ -1,0 +1,9 @@
+Tipo: Shorts Deportivos
+Talla: L
+Color: Gris oscuro
+Temporada: Verano
+Género: Masculino
+Estilo: Deportivo
+País: Alemania
+Marca: "Active Edge"
+Modelo: "Gym Beast"

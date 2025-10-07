@@ -1,0 +1,9 @@
+Tipo: Pantalones Vaqueros (Jeans)
+Talla: 32x32
+Color: Azul claro desgastado
+Temporada: Todo el año
+Género: Unisex
+Estilo: Casual
+País: Japón
+Marca: "Denim Soul"
+Modelo: "Vintage Fade"

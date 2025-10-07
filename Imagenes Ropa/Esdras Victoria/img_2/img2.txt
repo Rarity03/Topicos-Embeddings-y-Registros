@@ -1,0 +1,9 @@
+Tipo: Chamarra
+Talla: M
+Color: Café oscuro
+Temporada: 
+Genero: Mujer
+Estilo: Chamarra puffer
+País: México
+Marca: H&M
+Modelo: 1188469001

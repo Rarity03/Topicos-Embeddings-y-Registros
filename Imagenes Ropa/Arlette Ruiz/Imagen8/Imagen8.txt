@@ -1,0 +1,9 @@
+Tipo: Vestido
+Talla: M
+Color: Amarillo
+Temporada: Verano
+Género: Mujer
+Estilo: Formal, cóctel, floral
+País: 
+Marca: AGYMNX
+Modelo: 

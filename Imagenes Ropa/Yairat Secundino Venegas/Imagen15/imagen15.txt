@@ -1,0 +1,9 @@
+Tipo: Zapatos
+Talla: 26
+Color: Negro
+Temporada: Todo el año
+Género: Unisex
+Estilo: Formal
+País: México
+Marca: Flexi
+Modelo: Clásico 1020

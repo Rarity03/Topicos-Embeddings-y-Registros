@@ -1,0 +1,9 @@
+Tipo: Playera
+Talla: CH
+Color: Carbono Jaspeado
+Temporada: Verano 
+Genero: Hombre
+Estilo: Deportivo
+Pais: 
+Marca: Nike
+Modelo: Hq0832-091

@@ -1,0 +1,9 @@
+Tipo: Playera 
+Talla: Grande
+Color: Gris
+Temporada:
+Genero: Hombre
+Estilo: Manga Corta
+País: México
+Marca: BOBOIS
+Modelo: 46832256778460

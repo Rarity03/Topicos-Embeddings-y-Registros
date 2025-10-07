@@ -1,0 +1,9 @@
+Tipo: Chaqueta / Chamarra formal y casual de negocios
+Talla: Regular
+Color: Verde Oliva
+Temporada: Primavera / Otoño
+Género: Hombre
+Estilo: Casual / Elegante / Oficina / Viajes / Deportes
+País: China
+Marca: Genérico
+Modelo: Genérico

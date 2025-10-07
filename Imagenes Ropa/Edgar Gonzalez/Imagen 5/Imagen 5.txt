@@ -1,0 +1,9 @@
+Tipo: Bufanda de Lana
+Talla: Única
+Color: Rojo burdeos
+Temporada: Invierno
+Género: Unisex
+Estilo: Clásico
+País: Escocia
+Marca: "Highland Weave"
+Modelo: "Crimson Comfort"

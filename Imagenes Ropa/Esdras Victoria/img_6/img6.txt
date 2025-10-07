@@ -1,0 +1,9 @@
+Tipo: Camisa
+Talla: Chica
+Color: Negro
+Temporada:
+Genero: Hombre
+Estilo: Regular Fit
+País: México
+Marca: BOBOIS
+Modelo: 46850130182364

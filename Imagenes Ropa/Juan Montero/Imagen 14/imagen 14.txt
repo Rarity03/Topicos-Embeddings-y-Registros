@@ -1,0 +1,9 @@
+Tipo, Sweater
+Talla, M
+Color, Beige
+Temporada, Invierno
+Genero, Hombre
+Estilo, Smart Casual
+Pais, México
+Marca, Optima
+Modelo, Homebound Crewneck Sweater 7614

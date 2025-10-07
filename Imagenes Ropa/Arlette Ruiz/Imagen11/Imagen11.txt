@@ -1,0 +1,9 @@
+Tipo: Blusa sin mangas
+Talla: G
+Color: Negro
+Temporada: Primavera, Verano
+Género: Mujer
+Estilo: Elegante, casual, formal
+País: 
+Marca: HIGHSTREET
+Modelo: 

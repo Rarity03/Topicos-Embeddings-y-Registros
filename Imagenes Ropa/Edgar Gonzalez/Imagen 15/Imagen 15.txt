@@ -1,0 +1,9 @@
+Tipo: Traje de Baño Entero
+Talla: M
+Color: Azul turquesa
+Temporada: Verano
+Género: Femenino
+Estilo: Playero/Retro
+País: Australia
+Marca: "Ocean Wave"
+Modelo: "Coral Coast"

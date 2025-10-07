@@ -1,0 +1,9 @@
+Tipo: Pantalones Holgados Deportivos Con Drapeado
+Talla: M
+Color: White
+Temporada: Verano
+Género: Mujer
+Estilo: Deportivo
+País: China
+Marca: Generic
+Modelo: q1

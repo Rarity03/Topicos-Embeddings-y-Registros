@@ -1,0 +1,9 @@
+Tipo, Hoodie
+Talla, G
+Color, Negro
+Temporada, 
+Genero, Unisex
+Estilo, Estampado
+Pais, 
+Marca, 
+Modelo, Spiderman

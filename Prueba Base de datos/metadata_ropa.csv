@@ -1,0 +1,301 @@
+embedding_id,Tipo,Talla,Color,Temporada,Genero,Estilo,Pais,Marca,Modelo,Ruta_Imagen
+0,Vestido,2 | L,Amarillo,Primavera,Mujer,Disfraces | Cospla,,Hikvison,,Amairany Bernal Hernández\Imagen 01\Imagen 01.webp
+1,Falda,12,Negro,Otoño,Mujer,,USA,Anna Sui,825K10,Amairany Bernal Hernández\Imagen 02\Imagen 02.webp
+2,Pantalon,30,Rosa,Primavera,Mujer,,USA,Anna Sui,624T40,Amairany Bernal Hernández\Imagen 03\Imagen 03.webp
+3,Vestido,12,Gris,,Mujer,,USA,Anna Sui,1124K72,Amairany Bernal Hernández\Imagen 04\Imagen 04.webp
+4,Falda,M,Cream,Otoño,Mujer,,USA,Anna Sui,725N10,Amairany Bernal Hernández\Imagen 05\Imagen 05.webp
+5,Cardigan,L,Navy,,Mujer,,USA,Anna Sui,AR07,Amairany Bernal Hernández\Imagen 06\Imagen 06.webp
+6,Gorro,,Verde,Invierno,Unisex,,China,Anna Sui,725Q90,Amairany Bernal Hernández\Imagen 07\Imagen 07.webp
+7,Polo,L,Negro,,Hombre,,,Lanvin,,Amairany Bernal Hernández\Imagen 08\Imagen 08.webp
+8,Sweater,L,Blanco,,Mujer,,,Sonia Rykiel,,Amairany Bernal Hernández\Imagen 09\Imagen 09.webp
+9,Vestido,S,Verde,Primavera,Mujer,,Italia,Blumarine,,Amairany Bernal Hernández\Imagen 10\Imagen 10.webp
+10,Abrigo,42,Negro,Invierno,Mujer,Oversize,Francia,Isabel Marant,,Amairany Bernal Hernández\Imagen 11\Imagen 11.webp
+11,Pantalon,38,Azul,,Mujer,,Francia,Isabel Marant,,Amairany Bernal Hernández\Imagen 12\Imagen 12.webp
+12,Falda,36,Black-red,,Mujer,,Francia,Isabel Marant,,Amairany Bernal Hernández\Imagen 13\Imagen 13.webp
+13,Vestido,14,Plum,,Mujer,,,Vivienne Westwood,11010379-W00NU--PLUM,Amairany Bernal Hernández\Imagen 14\Imagen 14.webp
+14,Corset,44,Rosa,,Mujer,,Italia,Vivienne Westwood,18030063-Y003F--PETUNIA-PINK,Amairany Bernal Hernández\Imagen 15\Imagen 15.webp
+15,Chaqueta,M | L,Marrón,Otoño | Invierno,Unisex,Casual | Urbano,España,Bershka,No especificado en la etiqueta visible,Antonio Brayan Peña Bernabe\Prenda 1.webp
+16,pantalón,M | L,azul oscuro,Primavera | Verano | Otoño | Invierno,Mujer,Casual | Streetwear | Urbano,Bangladesh,Bershka,,Antonio Brayan Peña Bernabe\Prenda 10.webp
+17,Jean de pierna ancha con acabado desgastado,M | L,Azul claro,Primavera | Verano | Otoño,Mujer,Casual | Streetwear | Urbano | 2k,Bangladesh,Bershka,Wide leg o bagg,Antonio Brayan Peña Bernabe\Prenda 11.webp
+18,Pantalón tipo jeans recto,M | L,Base beige con estampado en negro o gris oscuro,Primavera | Verano | Otoño,Unisex,Streetwear | Artístico | Moderno | Experimental,Turquia,Bershka,painted denim o art print jeans,Antonio Brayan Peña Bernabe\Prenda 12.webp
+19,Pantalón,M | L,Gris lavado,Primavera | Otoño,Unisex,Streetwear | Urbano | Casual con estética “distressed | Desgastado”,Camboya,Bershka,,Antonio Brayan Peña Bernabe\Prenda 13.webp
+20,Sudadera con capucha,S | M | L,Tono crema claro,Otoño | Invierno ligero,Unisex,Urbano | Streetwear casual | Con branding grande,Turquia,“Out of core”,“Out of core print hoodie”,Antonio Brayan Peña Bernabe\Prenda 14.webp
+21,Sudadera con capucha,S | M | L,Gris oscuro lavado,Otoño | Invierno ligero | Otoño | Invierno urbano,Unisex,Streetwear | Urbano | “grunge” leve con efecto lavado | Tipografía gráfica,Pakistan,“Futura Designer,“Futura Designer Hoodie”,Antonio Brayan Peña Bernabe\Prenda 15.webp
+22,Chaqueta acolchada,M | L,Negro,Otoño | Invierno,Unisex,Casual | Urbano | Streetwear,España,Bershka,No especificado en la etiqueta visible,Antonio Brayan Peña Bernabe\Prenda 2.webp
+23,Sudadera con capucha,M | L,Negro,Otoño | Invierno,Unisex,Casual | Urbano | Streetwear,España,Bershka,No especificado en la etiqueta visible,Antonio Brayan Peña Bernabe\Prenda 3.webp
+24,Pantalón cargo,M | L,Negro desgastado,Versátil | Aunque más común en otoño | Invierno por el grosor | Estilo,Unisex,Urbano | Streetwear | Utilit,Bangladesh,Bershka,,Antonio Brayan Peña Bernabe\Prenda 4.webp
+25,Suéter de punto,M | L,Beige,Otoño | Invierno,Unisex,Casual | Streetwear,Pakistan,BERSHKA,Suéter de punto con gráfico abstracto,Antonio Brayan Peña Bernabe\Prenda 5.webp
+26,Sudadera con capucha,M | L,Blanco con estampado gráfico en negro,Otoño | Invierno,Unisex,Streetwear | Casual,Pakistan,Bershka,Hoodie blanco con gráfico caricaturesco en el frente,Antonio Brayan Peña Bernabe\Prenda 6.webp
+27,Chaqueta con capucha,M | L,Negro desgastado,Otoño | Invierno,Unisex,Casual | Urbano,Mainland China,Bershka,,Antonio Brayan Peña Bernabe\Prenda 7.webp
+28,Chaqueta estilo varsit,M | L,Azul con detalles en blanco,Otoño | Invierno,Hombre,Urbano | Streetwear,Bangladesh,Ecko Unltd.,Colección varsit,Antonio Brayan Peña Bernabe\Prenda 8.webp
+29,Chaqueta acolchada ligera con capucha,M | L,Negro,Otoño | Invierno,Unisex,Casual | Deportivo,Bangladesh,Bershka,,Antonio Brayan Peña Bernabe\Prenda 9.webp
+30,Conjunto de pijama,M,Durazno,Invierno,Mujer,Casual | Loungewear,México,DOFON,Conjunto de pijama manga larga con botones,Arlette Ruiz\Imagen 1\Imagen 1.webp
+31,Conjunto de dos piezas,M,Blanco,Otoño | Invierno,Mujer,Casual | Deportivo,,VIOPY,,Arlette Ruiz\Imagen10\Imagen10.webp
+32,Blusa sin mangas,L,Negro,Primavera | Verano,Mujer,Elegante | Casual | Formal,,HIGHSTREET,,Arlette Ruiz\Imagen11\Imagen11.webp
+33,Chaleco,L,Azul marino,Otoño | Invierno,Hombre,Acolchado | Ligero,Vietnam,Amazon Essentials,,Arlette Ruiz\Imagen12\Imagen12.webp
+34,Impermeable con capucha,M,Azul claro,Otoño | Invierno,Hombre,Impermeable | Forro de goma,Importado,SOLOCOTE,,Arlette Ruiz\Imagen13\Imagen13.webp
+35,Chubasquero,M,Gris,Otoño | Invierno,Mujer,Impermeable | Ligero | Plegable,China,LAMA,,Arlette Ruiz\Imagen14\Imagen14.webp
+36,Falda larga,M,Floral,Primavera | Verano,Mujer,Casual | Elegante | Con bolsillos,,VIOPY,,Arlette Ruiz\Imagen15\Imagen15.webp
+37,Suéter,M,Hueso,Otoño,Mujer,Tipo polo | Ligero | Cuello en v,,CIDER,,Arlette Ruiz\Imagen2\Imagen2.webp
+38,Chamarra,L,Blanco sucio,Invierno,Mujer,Acolchada,China,Pioneer Camp,,Arlette Ruiz\Imagen3\Imagen3.webp
+39,Chamarra,M,Rojo vino,Invierno,Mujer,Bomber,,,,Arlette Ruiz\Imagen4\Imagen4.webp
+40,Jeans,L,Azul,,Mujer,Pierna ancha,,Roswear,,Arlette Ruiz\Imagen5\Imagen5.webp
+41,Conjunto deportivo,M,Negro,Otoño,Mujer,Deportivo,,WOMICHEFI,,Arlette Ruiz\Imagen6\Imagen6.webp
+42,Pantalones cortos,,Verde militar,Verano,Mujer,Casual,,,,Arlette Ruiz\Imagen7\Imagen7.webp
+43,Vestido,M,Amarillo,Verano,Mujer,Formal | Cóctel | Floral,,AGYMNX,,Arlette Ruiz\Imagen8\Imagen8.webp
+44,Playera,,Blanco,Verano,Unisex,Japonés | Puzzle power,,Pokémon,,Arlette Ruiz\Imagen9\Imagen9.webp
+45,Vestido mujer,S | M | L,Champán,Otoño | Invierno,Unisex,Casual,China,YINGG,,Aura_Hernandez\imagen_01\imagen_01.webp
+46,Ropa deportiva,S | M | L,Negro,Primavera | Otoño,Hombre,Casual,China,Mayana,Y+N+20,Aura_Hernandez\imagen_02\imagen_02.webp
+47,pantalón hombre casual,S | M | L | XL,Caqui,Primavera | Verano,Hombre,Casual,China,Vndflag,,Aura_Hernandez\imagen_03\imagen_03.webp
+48,Vestido Estampado De Manga Larga Para Mujer Moda Dama Ropa,M | L | XL,Blanco Negro,Primavera | Otoño,Mujer,Fiesta | Noche | Formal,China,GUIGUA,,Aura_Hernandez\imagen_04\imagen_04.webp
+49,Pantalones De Vestir Caballero Hombre Tumbados Ropa Casual,M,negro,Primavera | Verano,Hombre,Formal | Fiesta | Ceremonia | Boda,China,Domrom,,Aura_Hernandez\imagen_05\imagen_05.webp
+50,Camisa Hawaiana Hombre Camisa Slim Fit Camisa Hombre,S | M | L,rojo,Primavera | Verano,Hombre,Casual | Trabajo | Vacaciones,China,HERNANDEZ SANTIAGO14,,Aura_Hernandez\imagen_06\imagen_06.webp
+51,Playeras Para Mujer New,S | M | L,blanco,Primavera | Otoño,Mujer,Casual,China,,Tshirt111905WH,Aura_Hernandez\imagen_07\imagen_07.webp
+52,Conjunto Para Hombre Deportivo Casual Chamarra Pants Sakers Verde Musgo G,S | M | L,verde musgo,Primavera | Otoño,Hombre,Casual | Deportivo,China,Sakers,filetto,Aura_Hernandez\imagen_08\imagen_08.webp
+53,Vestido De Noche Se,S | M | L,negro,Primavera | Verano,Mujer,Casual | Formal | Fiesta,China,Miveni,,Aura_Hernandez\imagen_09\imagen_09.webp
+54,Ropa Formal De Negocios Para Hombre En Color Sólido,M | L | XL,azul claro,Primavera | Verano,Hombre,Formal | Trabajo | Fiesta,China,,,Aura_Hernandez\imagen_10\imagen_10.webp
+55,Vestidos De Princesas Para Niñas Ropa Moda 9 Meses - 3 Años,M,rojo,Primavera | Verano,Mujer,Casual | Fiesta,China,Govssing,,Aura_Hernandez\imagen_11\imagen_11.webp
+56,Chamarra Impermeable Capucha L335 10 Pzas. Port Authority®,S | M | L | XL,gris oscuro,Primavera | Invierno,Mujer,Casual | Lluvia,China,Port Authority,,Aura_Hernandez\imagen_12\imagen_12.webp
+57,Vestido De Tirantes Estampado Para Vacaciones,S | M | L,azul,Primavera | Verano,Mujer,Casual | Pla | A | Vacaciones,China,,,Aura_Hernandez\imagen_13\imagen_13.webp
+58,Playera Licra Deportiva Correr Compresión Manga Larga,S | M | L,negro,Primavera | Otoño,Hombre,Casual | Camisa deportiva,China,,,Aura_Hernandez\imagen_14\imagen_14.webp
+59,Leggins Deportivos Dama De Licra Con Bolsa Celular Gym,S | M | L,negro,Primavera | Otoño,Mujer,Casual deportivo | Ejercicio,China,Polaris Sport,,Aura_Hernandez\imagen_15\imagen_15.webp
+60,Sudadera con capucha,M,Negro,Otoño | Invierno,Hombre,Urbano | Casual,México,Premium Streetwear,“Classic Hoodie”,Cesar Orozco\imagen 1\imagen 1.webp
+61,Sudadera con capucha,M,Gris medio,Primavera | Otoño,Hombre,Casual | Básico deportivo,México,Urban Basics,Light Hoodie 2025,Cesar Orozco\imagen 10\imagen 10.webp
+62,Sudadera con capucha,L,Negro,Otoño | Invierno,Hombre,Casual | Urbano,México,Levi’s,34259-0005,Cesar Orozco\imagen 11\imagen 11.webp
+63,Sudadera con capucha,M,Gris jaspeado oscuro,Otoño | Invierno,Hombre,Deportivo | Athleisure,México,Under Armour,Rival Fleece Hoodie,Cesar Orozco\imagen 12\imagen 12.webp
+64,Sudadera con capucha tipo pullover,M,Negro con logo blanco,Otoño | Invierno,Hombre,Urbano | Skate | Casual,México,Vans,VN0A456BY28,Cesar Orozco\imagen 13\imagen 13.webp
+65,Sudadera con cuello alto,M,Lila,Primavera | Otoño,Mujer,Kawaii | Casual,México,Sanrio,FDIC Kuromi Zip,Cesar Orozco\imagen 14\imagen 14.webp
+66,Jerse,L,Blanco con detalles negro,,Unisex,Esports | Gaming,Alemania,Fnatic,2024 Championships Kit Pro,Cesar Orozco\imagen 15\imagen 15.webp
+67,Sudadera fleece con cuello alto,L,Bicolor,Otoño | Invierno,Hombre,Confort | Casual,México,Greenlander,FCE8320A,Cesar Orozco\imagen 2\imagen 2.webp
+68,Sudadera con capucha,M,Negro con detalles rojos blancos,Otoño | Invierno,Hombre,Deportivo | Urbano,México,New Era,Chicago Bulls Hood,Cesar Orozco\imagen 3\imagen 3.webp
+69,Sudadera casual con cuello redondo,M,Rosa claro,Otoño | Invierno,Mujer,Urbano | Casual,México,Disney,DIAN,Cesar Orozco\imagen 4\imagen 4.webp
+70,Sudadera con capucha,S | M | L | XXL,Negro,Otoño | Invierno,Unisex,Urbano | Casual,México,Skechers,AUH005BLK,Cesar Orozco\imagen 5\imagen 5.webp
+71,Sudadera con capucha,S | M | L | XXL,Negro,Otoño | Invierno,Hombre,Deportivo | Casual,México,Shend,Urban Zip Hoodie,Cesar Orozco\imagen 6\imagen 6.webp
+72,Sudadera con media cremallera,S | M | L | XXL,Negro con detalles en plateado metálico,Otoño | Invierno,Hombre,Deportivo | Casual,México,Under Armour,UA Drive Pro Storm Hybrid Zip,Cesar Orozco\imagen 7\imagen 7.webp
+73,Sudadera cerrada de manga larga sin capucha,S | M | L,Blanco con detalles en azul pastel,Otoño | Invierno,Mujer,Kawaii | Casual,México,Sanrio,Cinnamoroll Basic Hoodie,Cesar Orozco\imagen 8\imagen 8.webp
+74,Sudadera cerrada de manga larga sin capucha,M,Beige con estampado multicolor,Primavera | Otoño,Mujer,Casual | Pop culture,México,Pixar Apparel,Buttercup LU01,Cesar Orozco\imagen 9\imagen 9.webp
+75,Camiseta Gráfica,M,Blanco con estampado multicolor,Verano,Unisex,Urbano,Estados Unidos,Street Threads,Cosmic Wanderer,Edgar Gonzalez\Imagen 1\Imagen 1.webp
+76,Abrigo Largo de Lana,M,Camel,Invierno,Mujer,Sofisticado,Italia,Capote Classico,Elegance Wool,Edgar Gonzalez\Imagen 10\Imagen 10.webp
+77,Sudadera con Capucha,L,Negro con logo blanco,Todo el año,Unisex,Urbano | Skate,Canadá,Maple Street,Urban Explorer,Edgar Gonzalez\Imagen 11\Imagen 11.webp
+78,Kimono,UNITALLA,Estampado floral multicolor sobre fondo negro,Verano | Primavera,Mujer,Bohemio | Étnico,Japón,Sakura Dreams,Garden Serenity,Edgar Gonzalez\Imagen 12\Imagen 12.webp
+79,Pantalones Chinos,34 | 30,Beige,Primavera | Verano,Hombre,Smart casual,España,Sol,Mediterráneo,Edgar Gonzalez\Imagen 13\Imagen 13.webp
+80,Top Crop de Algodón,S,Blanco puro,Verano,Mujer,Minimalista,Suecia,Clean Lines,Summer Breeze,Edgar Gonzalez\Imagen 14\Imagen 14.webp
+81,Traje de Baño Entero,M,Azul turquesa,Verano,Mujer,Pla | Ero | Retro,Australia,Ocean Wave,Coral Coast,Edgar Gonzalez\Imagen 15\Imagen 15.webp
+82,Vestido de Cóctel,S,Azul marino,Primavera | Otoño,Mujer,Elegante,Francia,Belle Nuit,Étoile Bleue,Edgar Gonzalez\Imagen 2\Imagen 2.webp
+83,Chaqueta de Cuero,L,Negro,Otoño | Invierno,Hombre,Rocker,Italia,Moto Moda,Rebel Rider,Edgar Gonzalez\Imagen 3\Imagen 3.webp
+84,Pantalones Vaqueros,32,Azul claro desgastado,Todo el año,Unisex,Casual,Japón,Denim Soul,Vintage Fade,Edgar Gonzalez\Imagen 4\Imagen 4.webp
+85,Bufanda de Lana,UNITALLA,Rojo burdeos,Invierno,Unisex,Clásico,Escocia,Highland Weave,Crimson Comfort,Edgar Gonzalez\Imagen 5\Imagen 5.webp
+86,Suéter de Punto,L,Verde bosque,Invierno,Hombre,Rústico,Noruega,Nordic Knit,Forest Hearth,Edgar Gonzalez\Imagen 6\Imagen 6.webp
+87,Blusa de Seda,M,Rosa pastel,Primavera,Mujer,Romántico,China,Silk Bloom,Cherr,Edgar Gonzalez\Imagen 7\Imagen 7.webp
+88,Shorts Deportivos,L,Gris oscuro,Verano,Hombre,Deportivo,Alemania,Active Edge,Gym Beast,Edgar Gonzalez\Imagen 8\Imagen 8.webp
+89,Falda Plisada,S,Amarillo mostaza,Otoño,Mujer,Vintage,Reino Unido,Retro Chic,Autumn Breeze,Edgar Gonzalez\Imagen 9\Imagen 9.webp
+90,Chaqueta,M,Verde Oliva,Primavera | Otoño,Hombre,Casual | Elegante | Oficina | Viajes | Deportes,China,,,Emmanuel Gonzalez\img_01\img_01.webp
+91,Chaqueta de béisbol,M,Verde,Otoño | Invierno,Hombre,Urbano | Casual | Diario,China,,,Emmanuel Gonzalez\img_02\img_02.webp
+92,Chaqueta,M,Marrón,Invierno,Hombre,Formal | Informal | Casual | Deportivo | Aire libre,China,,,Emmanuel Gonzalez\img_03\img_03.webp
+93,Chaqueta tipo denim con forro polar grueso,M,Azul,Invierno,Hombre,Casual | Clásico | E | Terior | Aire libre,China,,,Emmanuel Gonzalez\img_04\img_04.webp
+94,Chaqueta bomber gruesa estilo vintage,M,Azul Marino,Invierno,Hombre,Casual | Vintage,China,,,Emmanuel Gonzalez\img_05\img_05.webp
+95,Vestido con sombrero,S,Multicolor,Primavera | Verano,Mujer,Casual | Infantil,China,,,Emmanuel Gonzalez\img_06\img_06.webp
+96,Conjunto de 3 piezas,S,Multicolor,Primavera | Verano,Mujer,Casual | Adorable | Infantil,China,,,Emmanuel Gonzalez\img_07\img_07.webp
+97,Conjunto de 3 piezas,S,Multicolor,Verano,Mujer,Casual | Infantil | Aire libre,China,,,Emmanuel Gonzalez\img_08\img_08.webp
+98,Vestido de Verano de mezclilla,S,Azul,Primavera | Verano,Mujer,Casual | Infantil | Aire libre,China,,,Emmanuel Gonzalez\img_09\img_09.webp
+99,Vestido de manga larga,S,Azul Marino con rayas multicolor,Otoño | Invierno,Mujer,Princesa | Casual | Infantil,China,,,Emmanuel Gonzalez\img_10\img_10.webp
+100,Conjunto sudadera,S | M,Multicolor,Otoño | Invierno,Hombre,Casual | Deportivo | Aire libre | Moda infantil,China,,,Emmanuel Gonzalez\img_11\img_11.webp
+101,Conjunto de 4 piezas,S,Rojo con detalles blancos,Otoño | Invierno | Festiva,Hombre,Festivo | Navidad | Fiesta | Infantil,China,,,Emmanuel Gonzalez\img_12\img_12.webp
+102,Conjunto de tirantes,S,Parte superior multicolor,Otoño | Invierno | Festiva,Hombre,Fiesta | Festiva | Actuación | Infantil,China,,,Emmanuel Gonzalez\img_13\img_13.webp
+103,Mono,S,Multicolor,Otoño | Invierno | Festiva,Hombre,Superhéroe | 3d | Infantil | Casual,China,,,Emmanuel Gonzalez\img_14\img_14.webp
+104,Vestido de fiesta con mangas voladas,S,Azul,Todo el año | Festiva,Mujer,Formal | Casual | Infantil | Festivo,China,,,Emmanuel Gonzalez\img_15\img_15.webp
+105,Camisa Signature Leyenda Checo Pérez Blanco,M,Blanca,,Hombre,Casual,México,MAJA SPORTSWEAR,C-CO27-2,Enrique Molina\Imagen 1\Imagen 1.webp
+106,Bolsa Tote Bag,UNITALLA,Beige,,Mujer,Casual,México,LuckyLy,Bolsa Siena,Enrique Molina\Imagen 10\Imagen 10.webp
+107,Abrigo Cazador Invierno,S,Verde Olivo,Otoño | Invierno,Mujer,Casual,Japón,T-lab,T.LAB JACKET,Enrique Molina\Imagen 11\Imagen 11.webp
+108,Tenis Vans Old Skool,24,Rosa,Primavera | Verano,Mujer,Urbano,Estados Unidos,Vans,OLD SKOOL RASPBERRY,Enrique Molina\Imagen 12\Imagen 12.webp
+109,Playera Athlete Tee,S,Gris,,Mujer,Running,Estados Unidos,Reebok,TS0107,Enrique Molina\Imagen 13\Imagen 13.webp
+110,Pantalón de Gabardina Stretch para Niño,14,Chocolate,Otoño | Invierno,Hombre,Urbano,México,John Silver,Skinn,Enrique Molina\Imagen 14\Imagen 14.webp
+111,Sandalias Crocs Classic Clog Unisex,21,Blanco,Primavera | Verano,Hombre,Slides,Estados Unidos,Crocs,Classic Clog,Enrique Molina\Imagen 15\Imagen 15.webp
+112,Playera licra deportiva manga larga,M,Negra,Invierno,Hombre,Compresión manga larga,China,,,Enrique Molina\Imagen 2\Imagen 2.webp
+113,Tenis Lacoste Sintéticos,28,Negro,Primavera | Verano,Hombre,Casual,México,Lacoste,Chaymon,Enrique Molina\Imagen 3\Imagen 3.webp
+114,Trusa de Algodón,M,Blanco,Primavera | Verano,Hombre,Interior,México,Fruit Of The Loom,4P7601M.7TT,Enrique Molina\Imagen 4\Imagen 4.webp
+115,Chamarra Caballero Mangas,M,Cafe,Otoño | Invierno,Hombre,Casual,México,Roosevelt,ERIK-LE2501,Enrique Molina\Imagen 5\Imagen 5.webp
+116,Tenis para Correr de Hombre Nike Revolution,27,Verde,,Hombre,Running,México,Nike,HJ9198-300,Enrique Molina\Imagen 6\Imagen 6.webp
+117,Lentes de sol Hawkers Dark One Venm Hybrid,UNITALLA,Negro,,Unisex,Casual,Méixco,Hawkers,One Venm Hybrid,Enrique Molina\Imagen 7\Imagen 7.webp
+118,Pantalón de Dama Trabajo,M,Gris,Primavera | Verano,Mujer,Formal,Estados Unidos,Estilo Urbano,P13839,Enrique Molina\Imagen 8\Imagen 8.webp
+119,Chamarra de Gamuza Aborregado,M,Camel,Otoño | Invierno,Mujer,Casual,México,Roosevelt,NORA-LE2501,Enrique Molina\Imagen 9\Imagen 9.webp
+120,Impermeable,L,Verde caqui,,Mujer,Deportivo,México,H&M,1283791001,Esdras Victoria\img_1\img1.webp
+121,Chamarra,S,Azul Marino,,Hombre,Gamuza,México,C&A,3108069,Esdras Victoria\img_10\img10.webp
+122,Top,S,Negro,,Mujer,Cuello v,México,C&A,3102648,Esdras Victoria\img_11\img11.webp
+123,Falda,32,Azul,,Mujer,Mini con remaches,México,C&A,3113496,Esdras Victoria\img_12\img12.webp
+124,Vestido,M,Negro,,Mujer,Corto rayas,México,C&A,3106884,Esdras Victoria\img_13\img13.webp
+125,Moño,UNITALLA,Rojo,,Mujer,Para cabello,México,C&A,3109918,Esdras Victoria\img_14\img14.webp
+126,Pantalón,28,Negro,,Mujer,Contraste cintura,Méxic,C&A,3105463,Esdras Victoria\img_15\img15.webp
+127,Chamarra,M,Café oscuro,,Mujer,Chamarra puffer,México,H&M,1188469001,Esdras Victoria\img_2\img2.webp
+128,Gabardina,M,Beige,,Mujer,Botonadura doble,México,H&M,1259401001,Esdras Victoria\img_3\img3.webp
+129,Medias,,,,Mujer,Medias pelo,México,STUDIO F,S219221,Esdras Victoria\img_4\img4.webp
+130,Blazer,S,Azul,,Mujer,Corto satinado de fit recto,México,HIGHSTREET,,Esdras Victoria\img_5\img5.webp
+131,Camisa,S,Negro,,Hombre,Regular fit,México,BOBOIS,46850130182364,Esdras Victoria\img_6\img6.webp
+132,Bermuda,29,Negro,,Hombre,Slim fit,México,BOBOIS,43870716264668,Esdras Victoria\img_7\img7.webp
+133,Playera,L,Gris,,Hombre,Manga corta,México,BOBOIS,46832256778460,Esdras Victoria\img_8\img8.webp
+134,Jeans,31,Indigo,,Hombre,Mezclilla,México,BOBOIS,39720394588353,Esdras Victoria\img_9\img9.webp
+135,Pantalón De Dama Trabajo Pierna Ancha,M,Heather Charcoal,Primavera,Mujer,Formal,Mexico,Estilo Urbano,P13839,Hector Contreras\Imagen 1\Imagen 1.webp
+136,Jersey,S,Amarillo,Verano,Hombre,Deportivo,Mexico,Adidas,KRD14,Hector Contreras\Imagen 10\Imagen 10.webp
+137,Chamarra De Hombre Con Capucha Expedition Lätt M Fjallraven,L,Navy,Invierno,Hombre,Casual,Mexico,Fjallraven,Expedition Lätt M,Hector Contreras\Imagen 11\Imagen 11.webp
+138,Levi's® Chamarra Trucker De Mezclilla Para Hombre 72334-0130,L,Azul,Otoño,Hombre,Casual,Mexico,Levi's,72334-0130,Hector Contreras\Imagen 12\Imagen 12.webp
+139,Pantalón De Vestir Casual Para Hombre Cómodo Pantalones,30,Azul marino,Verano,Hombre,Casual | Formal,Mexico,Causix,118,Hector Contreras\Imagen 13\Imagen 13.webp
+140,Camisa Signature Leyenda Checo Pérez Blanco,S,Blanco,Primavera,Hombre,Casual,Mexico,MAJA SPORTSWEAR,C-CO27-2,Hector Contreras\Imagen 14\Imagen 14.webp
+141,Pantalón Para Hombre Estilo Formal En Poliéster De Express,36,SENATOR,Primavera,Hombre,Formal,Mexico,Express,3255261101B1725,Hector Contreras\Imagen 15\Imagen 15.webp
+142,Chamarra Mujer Invierno Cuello Interior Aborregado Gamuza,M,Camel,Invierno,Mujer,Casual,Mexico,Roosevelt,NORA-LE2501,Hector Contreras\Imagen 2\Imagen 2.webp
+143,Chamarra Chaqueta Abrigo Cazadora Invierno Mujer,S,Rosa claro,Invierno,Mujer,Casual,Mexico,T-LAB,T.LAB JACKET,Hector Contreras\Imagen 3\Imagen 3.webp
+144,Pantalon Acampanado Colombiano De Dama Con Stretch Itzi 511,5,Marino liso,Verano,Mujer,Casual,Mexico,Itzi Colombian Jeans,LEVANTA POMPA COLOMBIANO,Hector Contreras\Imagen 4\Imagen 4.webp
+145,Pantalon Recto De Moda Maria Bela Modelo Tiel,L,Negro,Primavera,Mujer,Casual,Mexico,MARIA BELA,Tiel,Hector Contreras\Imagen 5\Imagen 5.webp
+146,Chamarras Mujer Chaqueta Cortavientos De Piel Para Mujer,M,Negro,Verano,Mujer,Casual,Mexico,Colorworld,COL11-15,Hector Contreras\Imagen 6\Imagen 6.webp
+147,Leggins Deportivos Dama De Licra Con Bolsa Celular Gym,S,Gris oxford,Verano,Mujer,Deportivo,Mexico,Polaris Sport,Bolsa de celular,Hector Contreras\Imagen 7\Imagen 7.webp
+148,Playera Aeroread,S,Blanco,Verano,Hombre,Deportivo,Mexico,Adidas,42164,Hector Contreras\Imagen 8\Imagen 8.webp
+149,Jean Airflex+ Temp tech Slim Straight Con Parches,30,Lavado destruido oscuro,Primavera,Hombre,Casual,Mexico,American Eagle,AirFlex+ Temp Tech Slim Straight Jean con Parches,Hector Contreras\Imagen 9\Imagen 9.webp
+150,Chándal,S,Negro,Otoño | Invierno,Unisex,Deportivo | Fútbol,Alemania,Adidas,Real Madrid Edition,Jaime Fraire\Imagen 1\Imagen 1.webp
+151,Conjunto de polo,M,Negro liso,Verano,Hombre,Deportivo | Casual,China,Generic Athletic,Summer Set,Jaime Fraire\Imagen 10\Imagen 10.webp
+152,Playera de manga corta,L,Negro con estampado de manos sosteniendo billetes,Verano | Otoño,Mujer,Urbano | Streetwear,China,Cash Flow,Hype Tee,Jaime Fraire\Imagen 11\Imagen 11.webp
+153,Playera de manga corta estilo polo.,M,Azul marino,Verano | Primavera,Hombre,Militar | Casual,Vietnam,Tactical Gear,Arm,Jaime Fraire\Imagen 12\Imagen 12.webp
+154,Conjunto deportivo de camiseta,L,Negro,Verano,Hombre,Deportivo | Entrenamiento,Taiwán,Sport Tech,Two Tone,Jaime Fraire\Imagen 13\Imagen 13.webp
+155,Playera de manga corta estilo polo.,M,Gris claro,Verano | Primavera,Hombre,Casual | Elegante,Estados Unidos,Polo Flex,Modern Fit,Jaime Fraire\Imagen 14\Imagen 14.webp
+156,Chándal completo con sudadera con capucha,M,Verde militar claro,Otoño | Invierno,Hombre,Urbano | Athleisure,Corea del Sur,Urban Outdoor,Windrunner Set,Jaime Fraire\Imagen 15\Imagen 15.webp
+157,Vestido largo,S,Blanco con estampado floral azul,Verano | Primavera,Mujer,Romántico | Bohemio,Italia,Blossom Couture,Azure Floral,Jaime Fraire\Imagen 2\Imagen 2.webp
+158,Pantalones cargo,L,Kaki,Todas,Hombre,Urbano | Casual,Pakistán,Adventurer Co.,Urban Cargo,Jaime Fraire\Imagen 3\Imagen 3.webp
+159,Camiseta de compresión de manga larga,L,Negro,Todas,Hombre,Deportivo | Ropa interior técnica,Vietnam,ProFormance,Compression 360,Jaime Fraire\Imagen 4\Imagen 4.webp
+160,Shorts deportivos,L,Negro,Verano,Hombre,Deportivo | Tenis,China,Wilson,Court Challenger,Jaime Fraire\Imagen 5\Imagen 5.webp
+161,Camiseta de manga corta,M,Blanco con estampado de texto negro,Verano,Mujer,Urbano | Casual,Estados Unidos,Urban Vibe,New,Jaime Fraire\Imagen 6\Imagen 6.webp
+162,Jeans de trabajo con franja reflectante,M,Azul índigo oscuro,Todas,Hombre,Ropa de trabajo | Industrial,México,Safet,Refle,Jaime Fraire\Imagen 7\Imagen 7.webp
+163,Camiseta de manga corta,S,Blanco con estampado de estrellas azules,Primavera | Verano,Mujer,Urbano | Casual,México,Starlight Apparel,Stellar Tee,Jaime Fraire\Imagen 8\Imagen 8.webp
+164,Conjunto deportivo de camiseta,M,Negro,Primavera | Verano,Unisex,Deportivo | Casual,Taiwán,AeroFlow,Dynamic Duo,Jaime Fraire\Imagen 9\Imagen 9.webp
+165,tweed jacket,M,Blanco,Primavera,Mujer,Old mone,,Sfera,,Jesus Elias Oros García\01\01.webp
+166,Polo Regular Fit con L.12.12,M,Negro,Primavera | Verano,Hombre,Casual,,Lacoste,,Jesus Elias Oros García\02\02.webp
+167,Tenis de piel,25 CM | 26 CM | 26.5 CM | 27.5 CM | 28 CM | 29 CM,Negro,Continua,Hombre,Casual,,Tomm,,Jesus Elias Oros García\03\03.webp
+168,Falda Short Verde Olivo De Tweed,S,Negro,Otoño | Invierno,Mujer,Elegante | Vintage,,Julio,,Jesus Elias Oros García\04\04.webp
+169,Sudadera con capucha,L,Azul grisáceo con detalles en negro,Otoño | Invierno,Hombre,Casual deportivo con toques modernos,,Ferrioni,Dahlia,Jesus Elias Oros García\05\05.webp
+170,Tenis de piel,27 CM,Café,Continua,Hombre,Casual | Urbano,,Coach,,Jesus Elias Oros García\06\06.webp
+171,Vestido mini a cuadros,S,Rojo con estampado tartán,Otoño | Invierno,Mujer,Prepp | O dark academ,,Mi,Layered Mini Dress MIWOWF107G,Jesus Elias Oros García\07\07.webp
+172,Bota de piel,28 CM,Verde olivo,Continua,Hombre,Casual | Urbano,,Levi's,,Jesus Elias Oros García\08\08.webp
+173,Guantes térmicos tejidos,UNITALLA,Azul,Invierno,Unisex,Casual | Deportivo,,TOCOZOC,,Jesus Elias Oros García\09\09.webp
+174,Cinturón reversible de piel,32,Marrón por un lado,Continuo,Hombre,Casual | De vestir,,Timberland,,Jesus Elias Oros García\10\10.webp
+175,Vestido Largo con Olanes,M,Blanco con rosas rosas,Primavera | Verano,Mujer,Romántico,,Philosophy,Philosoph,Jesus Elias Oros García\11\11.webp
+176,bermuda informal,L | M | XXL,Caqui,Verano,Hombre,Casual | Deportivo | Versátil (,,LEU LEU,,Jesus Elias Oros García\12\12.webp
+177,Jeans flare comfort,M,Lavado mezclilla azul medio,Primavera | Verano,Mujer,Casual | Retro | Boho-chic,,Stradivarius,Corte flare ajustado en cadera,Jesus Elias Oros García\13\13.webp
+178,Camisa con botones,S | M | L | XXXL | 4XL,Caqui oscuro,Otoño | invierno,Hombre,Casual | Vintage | Trabajo,,Dubinik,,Jesus Elias Oros García\14\14.webp
+179,Chamarra tipo blazer,S | M | L | XXL,Negro,Primavera | Verano | Otoño,Hombre,Casual | Formal ligero | Viajes,,Mylldey,,Jesus Elias Oros García\15\15.webp
+180,Blusa Tejida,M,Blanco,Verano,Mujer,Escotada,México,Cuidado Con el Perro,112250911040521,Jorge Jiménez\imagen1\imagen1.webp
+181,Top sin Mangas a Rayas,M,Blanco con Negro,Verano,Mujer,Tejido cuello redondo | Ruedo en semicirular,México,Cuidado Con el Perro,103250213070186,Jorge Jiménez\imagen10\imagen10.webp
+182,Calcetas con Carita Ok,UNITALLA,Blanco con Negro,Anual,Mujer,Urbano,México,Cuidado Con el Perro,512250146030527,Jorge Jiménez\imagen11\imagen11.webp
+183,Chaleco,S,Blanco con Azul Marino,Verano,Unisex,Bordado,México,Cuidado Con el Perro,119250652110074,Jorge Jiménez\imagen12\imagen12.webp
+184,Playera Peanuts Snoopy,2,Roja,Anual,Unisex,Estampada,México,Cuidado Con el Perro,304250913020756,Jorge Jiménez\imagen13\imagen13.webp
+185,Conjunto Largo,2,Verde con Blanco,Verano,Unisex,Pans estampado,México,Cuidado Con el Perro,304250932010742,Jorge Jiménez\imagen14\imagen14.webp
+186,Sudadera,L,Azul,Verano,Hombre,Bordado,México,Cuidado Con el Perro,203250451110231,Jorge Jiménez\imagen15\imagen15.webp
+187,Playera Manga Corta,M,Rosa,Verano,Unisex,Cuello v,México,Cuidado Con el Perro,103241013020730,Jorge Jiménez\imagen2\imagen2.webp
+188,Playera Dragon Ball,M,Negra Llamas Azules,Verano,Unisex,Estampada,México,Cuidado Con el Perro,112250713020252,Jorge Jiménez\imagen3\imagen3.webp
+189,Jeans Mezclilla,28,Azul Oscuro,Anual,Hombre,Amplio,México,Cuidado Con el Perro,103241013020730,Jorge Jiménez\imagen4\imagen4.webp
+190,Sudadera Letra S,M,Gris,Anual,Hombre,Casual cuello redondo,México,Cuidado Con el Perro,210250951110109,Jorge Jiménez\imagen5\imagen5.webp
+191,Pans,6,Negro lineas Blancas,Anual,Mujer,Pans recto casual,México,Cuidado Con el Perro,405250921080532,Jorge Jiménez\imagen6\imagen6.webp
+192,Top Crop,S,Rojo,Verano,Mujer,Argolla corazon rojo,México,Cuidado Con el Perro,120250613070056,Jorge Jiménez\imagen7\imagen7.webp
+193,Bermuda,M,Olivo,Verano,Hombre,Cargo,México,Malayerba Cuidado Con el Perro,213250323030064,Jorge Jiménez\imagen8\imagen8.webp
+194,Playera con Botones,M,Verde,Verano,Mujer,Tejida,México,Cuidado Con el Perro,103250613020125,Jorge Jiménez\imagen9\imagen9.webp
+195,playera tipo polo,M,Blanco,Verano,Hombre,Manga corta,México,X-Shadow,607012Xsh,Jose Daniel\Imagen1\Imagen1.webp
+196,Sudadera con capucha,XXL | L | S | M | XL | G,Beige,,Hombre,Casual,,SnowElve,,Jose Daniel\Imagen10\Imagen10.webp
+197,Camisa,S | M | G | L,Blanco,,Hombre,Manga larga | formal,,J'S FASHION,Generico,Jose Daniel\Imagen11\Imagen11.webp
+198,Chamarra de Senderismo para Exterior,S | M | G | XL,Verde militar,,Hombre,Cuello alto | cordon ajustable | impermeable,,Angxiong,Generico,Jose Daniel\Imagen12\Imagen12.webp
+199,Playera,S,Carbono Jaspeado,Verano,Hombre,Deportivo,,Nike,Hq0832-091,Jose Daniel\Imagen13\Imagen13.webp
+200,Falda corta,S | M | L | XL,Negro,,Mujer,Plisada,China,YOOZME,Generico,Jose Daniel\Imagen14\Imagen14.webp
+201,Blusa,M | L | S | G | XL,Negro,Verano,Mujer,Encaje | manga larga | transparencia | casual,,Moises,Generico,Jose Daniel\Imagen15\Imagen15.webp
+202,Hoodie,L,Negro,,Unisex,Estampado,,,Spiderman,Jose Daniel\Imagen2\Imagen2.webp
+203,Vestido,M,Azul,Fiestas,Mujer,,Mexico,Generico,,Jose Daniel\Imagen3\Imagen3.webp
+204,Shorts,L,Negro,,Hombre,Deportivo,Mexico,QY2,,Jose Daniel\Imagen4\Imagen4.webp
+205,Playera,L,Morado pastel,Verano,Hombre,Manga corta sin estampado | Cuello redondo,Mexico,Lacoste,TH7618_5QD,Jose Daniel\Imagen5\Imagen5.webp
+206,Chamarra,M,Rosa,Otoño,Mujer,Deportivo,Mexico,CUBIC PLANET,,Jose Daniel\Imagen6\Imagen6.webp
+207,Sueter,S,Azul Brezo,Invierno,Mujer,Estampado de harryPotter,Estados Unidos,,WBHH0239-60135120,Jose Daniel\Imagen7\Imagen7.webp
+208,Crop Top,L,Negro,Verano,Mujer,Cuello redondo manga larga elastico,Estados Unidos,Artfish,,Jose Daniel\Imagen8\Imagen8.webp
+209,Camisa,M,Beige,Otoño,Mujer,Cuadros manga larga cuello en v con botones,China,Yiqinyuan,,Jose Daniel\Imagen9\Imagen9.webp
+210,Chaqueta de mezclilla,M,Negro,Invierno,Hombre,Clásico,México,Optima,Black Jacket 201,Juan Montero\Imagen 1\imagen 1.webp
+211,Pantalón de Vestir,32,Gris,Otoño,Hombre,Formal,México,Robert's,Anatomic Technolog,Juan Montero\Imagen 10\imagen 10.webp
+212,Jeans,32,Azul Marino,Otoño,Hombre,Casual,México,Cuidado con el Perro,Dark Blue Jeans DBJ278,Juan Montero\Imagen 11\imagen 11.webp
+213,Sudadera,M,Blanco,Otoño,Hombre,Casual,México,Yellow Images,Swearshirt PSD 4556,Juan Montero\Imagen 12\Imagen 12.webp
+214,Pants,M,Gris,Otoño,Unisex,Deportivo,México,Optima,Gre,Juan Montero\Imagen 13\imagen 13.webp
+215,Sweater,M,Beige,Invierno,Hombre,Smart casual,México,Optima,Homebound Crewneck Sweater 7614,Juan Montero\Imagen 14\imagen 14.webp
+216,Sweater,M,Verde,Invierno,Hombre,Smart casual,México,Optima,Homebound Crewneck Sweater 7849,Juan Montero\Imagen 15\imagen 15.webp
+217,Chaqueta de mezclilla,M,Gris,Invierno,Hombre,Clásico,México,Optima,Black Jacket 201,Juan Montero\Imagen 2\imagen 2.webp
+218,Sudadera,M,Gris,Otoño,Unisex,Casual,México,Optima,Hooddie Casual 504,Juan Montero\Imagen 3\imagen 3.webp
+219,Playera,M,Beige,Verano,Hombre,Casual,China,Oops Jeans,Great T-shirt-Beige,Juan Montero\Imagen 4\imagen 4.webp
+220,Playera,M,Verde,Verano,Hombre,Casual,China,Oops Jeans,Great T-shirt-Green,Juan Montero\Imagen 5\imagen 5.webp
+221,Camisa manga corta,M,Vino,Verano,Hombre,Casual,China,Optima,Beach Shirt,Juan Montero\Imagen 6\imagen 6.webp
+222,Camisa manga corta,M,Verde,Verano,Hombre,Casual,China,Optima,Beach Shirt,Juan Montero\Imagen 7\imagen 7.webp
+223,Camisa manga corta,M,Blanca,Verano,Hombre,Casual,China,Optima,Beach Shirt,Juan Montero\Imagen 8\imagen 8.webp
+224,Pantalón de vestir,32,Negro,Otoño,Hombre,Formal,México,Robert's,Pantalón Contemporar,Juan Montero\Imagen 9\imagen 9.webp
+225,Vestido camisero de manga larga con pliegues,M,Gris,Otoño,Mujer,Casual | Formal,China,Generica,Generica,Kenneth Mendoza\Imagen 1\Imagen 1.webp
+226,Guantes tacticos,M | XL | G,Verde,,Unisex,Tactico,,Vmimv,Enhanced,Kenneth Mendoza\Imagen 10\Imagen 10.webp
+227,Corbata,UNITALLA,Azul oscuro,,Hombre,Formal,,Generica,Generica,Kenneth Mendoza\Imagen 11\Imagen 11.webp
+228,Vestido largo,M | XL |,Rojo,Primavera | Verano,Mujer,Casual | Formal,,Generica,Generica,Kenneth Mendoza\Imagen 12\Imagen 12.webp
+229,Pantalon de vestir,S | M | XL,Negro,Primavera | Verano,Mujer,Casual | Formal,,GO,Stretch Elegante,Kenneth Mendoza\Imagen 13\Imagen 13.webp
+230,Playera,S | M | G,Negro,,Hombre,Casual,,LZ,Jack Daniels,Kenneth Mendoza\Imagen 14\Imagen 14.webp
+231,Guantes para motociclista,M | G | XL | XXL,Negro,,Unisex,Casual,,Ghost Racing,Generica,Kenneth Mendoza\Imagen 15\Imagen 15.webp
+232,Blusa sin mangas,M | L,Gris,Primavera | Verano,Mujer,Casual | trabajo,,MESSINA ALPS,,Kenneth Mendoza\Imagen 2\Imagen 2.webp
+233,Calcetines cortos,UNITALLA,Negro,,Hombre,Casual,,anthichen,YDDW,Kenneth Mendoza\Imagen 3\Imagen 3.webp
+234,Gorra Puma Gold Metal Cat,UNITALLA,Negro,,Unisex,Casual,,Puma,2415801,Kenneth Mendoza\Imagen 4\Imagen 4.webp
+235,Gorra lisa curva,UNITALLA,Rosa,Primavera | Verano,Unisex,Casual,,Generica,Basica,Kenneth Mendoza\Imagen 5\Imagen 5.webp
+236,Bufanda Bordada De Harr,L,Rojo,,Unisex,Casual,,Gdrabo,XHL-1,Kenneth Mendoza\Imagen 6\Imagen 6.webp
+237,Bufanda Rothco Coyote,UNITALLA,Marrón,,Unisex,Casual | Formal,,Rothco,4537 Coyote,Kenneth Mendoza\Imagen 7\Imagen 7.webp
+238,Falda deportiva,S | M | L | XL | XXL,Azul,,Mujer,Deportivo,,Qmczla,Falda deportiva de lycra,Kenneth Mendoza\Imagen 8\Imagen 8.webp
+239,Calceta deportiva,UNITALLA,Negro,,Hombre,Diario,,foofoo,nautica,Kenneth Mendoza\Imagen 9\Imagen 9.webp
+240,Chamarra de forro polar,S,Beige,Primavera | Otoño | Invierno,Mujer,Casual,Estados Unidos,Pioneer Camp,B0DFZ18F59,Mauricio Gonzalez\img_1\img_1.webp
+241,Falda Alta de Malla de Tul,M,Rosa,Primavera | Verano,Mujer,Elegante o casual,Reino Unido,Tree Nest,B0CLN5S6C1,Mauricio Gonzalez\img_10\img_10.webp
+242,Capa Medieval de Dunas,200 CM | 78 | 7,Cafe,Primavera | Verano | Invierno,Unisex,Cospla,China,AUTOWT,B0FB3VFY2Z,Mauricio Gonzalez\img_11\img_11.webp
+243,Pantalones de trabajo,L,Rojo,Primavera | Verano | Otoño,Mujer,Casual,China,PRETTYGARDEN,B0D11C2Y3W,Mauricio Gonzalez\img_12\img_12.webp
+244,Chamarra impermeable,M,Amarillo,Otoño | Invierno | Verano,Mujer,Casual,Estados Unidos,GIISAM,B0B4355F68,Mauricio Gonzalez\img_13\img_13.webp
+245,Sudadera deportiva,S,Gris,Verano,Mujer,Casual,Mexico,Lviefent,B09Z74R4SH,Mauricio Gonzalez\img_14\img_14.webp
+246,Blusa de manga corta,S,Rosa,Verano,Mujer,Casual,China,French Toast,B01DDDJ1DC,Mauricio Gonzalez\img_15\img_15.webp
+247,Chamarra con capucha,L,Negro,Primavera | Otoño | Invierno,Unisex,Casual,Estados Unidos,Riparo,B0FHHN7KBX,Mauricio Gonzalez\img_2\img_2.webp
+248,Playera clásica de Manga Corta,L,Negro,Primavera | Otoño,Hombre,Casual,Francia,Lacoste,B073SHLJWC,Mauricio Gonzalez\img_3\img_3.webp
+249,Disne,L,Negro,Invierno | Otoño,Hombre,Casual,Estados Unidos,Disney,B072JPWGLM,Mauricio Gonzalez\img_4\img_4.webp
+250,Nautica Playera gráfica de Bandera,M,Azul marino,Invierno | Otoño,Hombre,Clasico,Guatemala,Nautica,B08CWL9C2J,Mauricio Gonzalez\img_5\img_5.webp
+251,Playera,M,Negro,Otoño,Hombre,Casual,India,Tomm,MW0MW36498,Mauricio Gonzalez\img_6\img_6.webp
+252,Playera,XL,Blanco,Verano,Hombre,Casual,Mexico,HUGO BOSS,50522376,Mauricio Gonzalez\img_7\img_7.webp
+253,Camisas de Manga Larga,S,Verde,Otoño | Invierno | Verano,Hombre,Pesca,China,Tuna,B089W1ZLRZ,Mauricio Gonzalez\img_8\img_8.webp
+254,Legging para Deporte,S,Negro,Primavera | Verano,Mujer,Sport,Indonesia,Adidas,28883,Mauricio Gonzalez\img_9\img_9.webp
+255,Gabardina Mujer Doble Botonadura,S,Sólido Parka,Otoño,Mujer,Casual-elegante,China,Targogo,Gabardina Mujer Manga Larga De Solapa Slim Fit Outerwear Windbreaker,MiriamB\Imagen_1\imagen1.webp
+256,Pantalones Deportivos Rectos De Poliéster,S,Black,Verano,Mujer,Deportivo,China,Genetic,2362247501001,MiriamB\Imagen_10\imagen10.webp
+257,Pantalones Holgados Deportivos Con Drapeado,M,White,Verano,Mujer,Deportivo,China,Generic,q1,MiriamB\Imagen_11\imagen11.webp
+258,Pantalones Cortos De Mezclilla De Cintura Alta,M,Blue,Verano,Mujer,Straight pants,Southeast Asia,Generic,876272,MiriamB\Imagen_12\imagen12.webp
+259,Pantalones Cortos De Mezclilla De Cintura Alta Con Correas,M,Light blue,Verano,Mujer,Vesatil,Asia,Generic,D4235,MiriamB\Imagen_13\imagen13.webp
+260,Pantalones Casuales Morados De Poliéster,L,Purple,Verano,Hombre,Deportivo,China,Mens Sports,PM983,MiriamB\Imagen_14\imagen14.webp
+261,Jerse,S,812 White,Otoño,Hombre,Casual,Southeast Asia,Generic,Lp9765,MiriamB\Imagen_15\imagen15.webp
+262,Abrigo de felpa empalme con capucha manga larga,M,Brown1,Invierno,Chic,China,Jaet,Jaet Brown,,MiriamB\Imagen_2\imagen2.webp
+263,Abrigo Con Capucha Para Mujer,M,Azul Mezclilla,Invierno,Mujer,Casual,China,YOUMU,,MiriamB\Imagen_3\imagen3.webp
+264,Chamarra Cálida De Terciopelo Con Capucha,S,Beige,Invierno,Mujer,Casual,China,Alan,Generic,MiriamB\Imagen_4\imagen4.webp
+265,Sudadera Holgada Con Capucha Estampada Para Hombre,L,Brown,Otoño,Hombre,Urbano,EEUU,Generic,Generic,MiriamB\Imagen_5\imagen5.webp
+266,Suéter De Mujer De Tela Acrílica Con Cuello Redondo,S,Beige,Otoño,Mujer,Casual,China,Generic,2362254133001,MiriamB\Imagen_6\imagen6.webp
+267,Jerse,L,Blanco,Invierno,Mujer,Casual,China,Generic,Generic,MiriamB\Imagen_7\imagen7.webp
+268,Jerse,M,Light gray,Otoño,Mujer,Estilo jerse | Que proporciona facilidad de uso | Un atractivo moderno,Holanda,Generic,Generic,MiriamB\Imagen_8\imagen8.webp
+269,Pantalones Rectos De Cintura Alta,L,Coffee color,Verano,Mujer,Versatil,Europa,Generic,KJ33,MiriamB\Imagen_9\imagen9.webp
+270,chamarra de forro polar,L,azul marino,Otoño | Invierno,Hombre,Casual | A cuadros | Con forro sherpa,vendido por Qierssee,NQyIOS,NexsJY2Yd,Monica Galvan\Imagen 1\imagen 1.webp
+271,Sudadera con capucha,M,Caqui,Todo el año,Hombre,Deportivo | Clásico fit | Con bandas laterales | Gorro ajustable,México,Lacoste,SH7457_BMY,Monica Galvan\Imagen 10\imagen 10.webp
+272,Falda casual bohemia,UNITALLA,Blanco,Primavera | Verano,Mujer,Bohemio | Holgado,China,COLIZAMX,,Monica Galvan\Imagen 11\imagen 11.webp
+273,Vestido largo sin mangas,M,Rojo,Primavera | Verano,Mujer,Casual | Bohemio | Cuello halter | Plisado,China,COLIZAMX,,Monica Galvan\Imagen 12\imagen 12.webp
+274,Vestido maxi estilo “milk maid”,L,E,Verano | Primavera,Mujer,Bohemio | Romántico | Casual de playa | Cuello cuadrado | Manga abullonada,,Virbit,Listado con ASIN de Amazon,Monica Galvan\Imagen 13\imagen 13.webp
+275,Gabardina,L,Caqui,Otoño | Invierno,Mujer,Clásico | Formal | Con cinturón | Capucha desmontable,China,CREATMO US,,Monica Galvan\Imagen 14\imagen 14.webp
+276,Abrigo,M | L | XXL | XXXL | 4XL | S,Azul M,Invierno,Mujer,Abrigo acolchado | Cálido | Con capucha extraíble,China,CREATMO US,Abrigo de invierno grueso con sherpa,Monica Galvan\Imagen 15\imagen 15.webp
+277,suéter de cuello redondo,L,púrpura,Otoño | Invierno,Hombre,Casual | Acanalado | Diseño sólido | Ajuste delgado,,,,Monica Galvan\Imagen 2\imagen 2.webp
+278,Chaqueta,M,Azul,Otoño | invierno,Mujer,Casual | Cálido | De forro polar con capucha | Botones,China,WOMICHEFI,,Monica Galvan\Imagen 3\imagen 3.webp
+279,Pashmina,UNITALLA,Khaki,Otoño | Invierno,Mujer,Casual | Elegante | Tipo bufanda | Capa o chal,China,,,Monica Galvan\Imagen 4\imagen 4.webp
+280,Chamarra tipo cargo de invierno con forro sherpa,M,Azul-A,Otoño | Invierno,Hombre,Clásico | Casual | Gruesa | Cálida para exteriores,,JUNGE,ASIN B0 correspondiente al listado,Monica Galvan\Imagen 5\imagen 5.webp
+281,Jeans rectos,25 | 31,Dejar de linaje,Todo el año,Mujer,Holgado | Corte recto | L | Cintura media con lazo anudado,,Levi’s,XL Straight,Monica Galvan\Imagen 6\imagen 6.webp
+282,Falda midi de mezclilla con botones frontales,24,Artesanía limpia,Todo el año,Mujer,Casual | Atemporal | Con silueta midi | Acabado patchwork,Importado desde Estados Unidos,Levi’s,Button Midi Skirt Patch,Monica Galvan\Imagen 7\imagen 7.webp
+283,Polo de tenis sin mangas,2,Phoeni,Primavera | Verano,Mujer,Deportivo | Corte delgado | Ajustado | Con cuello | Botón,Importado desde Estados Unidos,Lacoste,ASIN B0FQNTZ191,Monica Galvan\Imagen 8\imagen 8.webp
+284,Cárdigan de punto con cuello en V,6,Azul marino,Otoño | Invierno,Mujer,Clásico | Casual-elegante | Deportivo con logotipo bordado,Importado desde Estados Unidos,Lacoste,Número de modelo AF4143-51,Monica Galvan\Imagen 9\imagen 9.webp
+285,Camisa,M,Azul,Verano,Hombre,Casual,México,Zara,Slim Fit,Yairat Secundino Venegas\Imagen1\imagen1.webp
+286,Abrigo,L,Negro,Invierno,Mujer,Elegante,Inglaterra,Burberry,Classic Coat,Yairat Secundino Venegas\Imagen10\imagen10.webp
+287,Traje,40,Azul marino,Todo el año,Hombre,Formal,Italia,Armani,Executive Fit,Yairat Secundino Venegas\Imagen11\imagen11.webp
+288,Suéter,M,Marrón,Otoño,Unisex,Vintage,Argentina,Cardón,Knitwear,Yairat Secundino Venegas\Imagen12\imagen12.webp
+289,Pantalón deportivo,M,Gris oscuro,Todo el año,Hombre,Deportivo,Estados Unidos,Adidas,Jogger Fit,Yairat Secundino Venegas\Imagen13\imagen13.webp
+290,Chaqueta,S,Verde militar,Otoño,Mujer,Urbano,Canadá,The North Face,Windbreaker,Yairat Secundino Venegas\Imagen14\imagen14.webp
+291,Zapatos,26,Negro,Todo el año,Unisex,Formal,México,Flexi,Clásico 1020,Yairat Secundino Venegas\Imagen15\imagen15.webp
+292,Pantalón,32,Negro,Invierno,Unisex,Urbano,España,Levi’s,511 Skinny,Yairat Secundino Venegas\Imagen2\imagen2.webp
+293,Vestido,S,Rojo,Primavera,Mujer,Elegante,Italia,Gucci,Evening Dress,Yairat Secundino Venegas\Imagen3\imagen3.webp
+294,Sudadera,L,Gris,Otoño,Hombre,Deportivo,Estados Unidos,Nike,Hoodie Air,Yairat Secundino Venegas\Imagen4\imagen4.webp
+295,Falda,M,Verde,Verano,Mujer,Casual,Francia,Chanel,Mini Skirt,Yairat Secundino Venegas\Imagen5\imagen5.webp
+296,Playera,L,Blanco,Todo el año,Unisex,Básico,México,Pull&Bear,Essential Tee,Yairat Secundino Venegas\Imagen6\imagen6.webp
+297,Chamarra,M,Café,Invierno,Hombre,Formal,Alemania,Hugo Boss,Leather Jacket,Yairat Secundino Venegas\Imagen7\imagen7.webp
+298,Blusa,S,Amarillo,Primavera,Mujer,Romántico,Colombia,Studio F,Floral Top,Yairat Secundino Venegas\Imagen8\imagen8.webp
+299,Shorts,30,Beige,Verano,Hombre,Playero,Brasil,Havaianas,Beachwear,Yairat Secundino Venegas\Imagen9\imagen9.webp

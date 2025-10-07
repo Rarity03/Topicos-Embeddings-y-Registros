@@ -1,0 +1,9 @@
+Tipo: Chamarra
+Talla: M
+Color: Rojo vino
+Temporada: Invierno
+Género: Mujer
+Estilo: Bomber
+País: 
+Marca: 
+Modelo: 

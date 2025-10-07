@@ -1,0 +1,9 @@
+Tipo, Pantalon
+Talla, 38
+Color, Azul
+Temporada, 
+Genero, Mujer
+Estilo,
+Pais, Francia
+Marca, Isabel Marant
+Modelo,

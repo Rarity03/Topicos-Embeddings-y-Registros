@@ -1,0 +1,9 @@
+Tipo, Chaleco
+Talla, XS
+Color, Blanco con Azul Marino
+Temporada, Verano 
+Genero, Unisex
+Estilo, Bordado
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 119250652110074

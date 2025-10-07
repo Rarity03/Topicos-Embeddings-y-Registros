@@ -1,0 +1,9 @@
+Tipo: Vestido
+Talla: M
+Color: Negro
+Temporada: 
+Genero: Mujer
+Estilo: Corto Rayas
+País: México
+Marca: C&A
+Modelo: 3106884

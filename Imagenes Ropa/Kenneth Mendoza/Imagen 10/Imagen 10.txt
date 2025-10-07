@@ -1,0 +1,9 @@
+Tipo: Guantes tacticos
+Talla: M | L | G
+Color: Verde 
+Temporada:
+Genero: Unisex
+Estilo: Tactico
+Pais:
+Marca: Vmimv
+Modelo: Enhanced

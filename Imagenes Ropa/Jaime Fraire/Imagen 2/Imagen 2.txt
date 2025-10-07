@@ -1,0 +1,17 @@
+Tipo: Vestido largo (maxi)
+
+Talla: S
+
+Color: Blanco con estampado floral azul
+
+Temporada: Verano / Primavera
+
+Género: Femenino
+
+Estilo: Romántico / Bohemio
+
+País: Italia
+
+Marca: Blossom Couture
+
+Modelo: Azure Floral

@@ -1,0 +1,9 @@
+Tipo, Blusa Tejida
+Talla, M
+Color, Blanco
+Temporada, Verano 
+Genero, Mujer
+Estilo, Escotada
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 112250911040521

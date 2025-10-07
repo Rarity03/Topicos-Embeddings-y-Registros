@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, M
+Color, Azul
+Temporada, Fiestas
+Genero, Mujer
+Esttilo, Estampado floral
+Pais, Mexico
+Marca, Generico
+Modelo, 

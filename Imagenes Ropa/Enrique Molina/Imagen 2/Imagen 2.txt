@@ -1,0 +1,9 @@
+Tipo, Playera licra deportiva manga larga
+Talla, M
+Color, Negra
+Temporada, Invierno
+Genero, Hombre
+Estilo, Compresión manga larga
+Pais, China
+Marca, Genérico 
+Modelo, Genérico

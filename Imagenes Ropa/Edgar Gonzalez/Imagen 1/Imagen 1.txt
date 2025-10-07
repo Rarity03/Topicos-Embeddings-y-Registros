@@ -1,0 +1,9 @@
+Tipo: Camiseta Gráfica
+Talla: M
+Color: Blanco con estampado multicolor
+Temporada: Verano
+Género: Unisex
+Estilo: Urbano
+País: Estados Unidos
+Marca: "Street Threads"
+Modelo: "Cosmic Wanderer"

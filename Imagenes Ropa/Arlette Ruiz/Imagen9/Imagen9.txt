@@ -1,0 +1,9 @@
+Tipo: Playera
+Talla: X
+Color: Blanco
+Temporada: Verano
+Género: Unisex
+Estilo: Japonés, Puzzle Power
+País: 
+Marca: Pokémon
+Modelo: 

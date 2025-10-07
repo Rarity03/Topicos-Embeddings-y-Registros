@@ -1,0 +1,9 @@
+Tipo: Vestido con sombrero
+Talla: Niña pequeña
+Color: Multicolor (estampado floral)
+Temporada: Primavera / Verano
+Género: Niña
+Estilo: Casual / Infantil
+País: China
+Marca: Genérico
+Modelo: Genérico

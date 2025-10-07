@@ -1,0 +1,10 @@
+Tipo: Chaqueta de Cuero
+Talla: L
+Color: Negro
+Temporada: Otoño/Invierno
+Género: Masculino
+Estilo: Rocker
+País: Italia
+Marca: "Moto Moda"
+Modelo: "Rebel Rider"
+

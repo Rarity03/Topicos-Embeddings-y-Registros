@@ -1,0 +1,9 @@
+Tipo: Vestido de fiesta con mangas voladas
+Talla: Niña
+Color: Azul y Rosa
+Temporada: Todo el año / Festiva (Cumpleaños, Pascua, Halloween, Navidad)
+Género: Niña
+Estilo: Formal / Casual / Infantil / Festivo
+País: China
+Marca: Genérico
+Modelo: Genérico

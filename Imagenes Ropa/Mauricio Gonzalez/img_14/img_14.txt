@@ -1,0 +1,9 @@
+Tipo: Sudadera deportiva 
+Talla: Chica
+Color: Gris
+Temporada: Verano	
+Género: Mujer
+Estilo: Casual
+País: Mexico
+Marca: Lviefent    
+Modelo: B09Z74R4SH

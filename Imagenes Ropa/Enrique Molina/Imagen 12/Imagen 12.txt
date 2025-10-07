@@ -1,0 +1,9 @@
+Tipo: Tenis Vans Old Skool
+Talla: 24 MX 
+Color: Rosa
+Temporada: Primavera/Verano
+Genero: Mujer
+Estilo: Urbano
+Pais: Estados Unidos
+Marca: Vans
+Modelo: OLD SKOOL RASPBERRY

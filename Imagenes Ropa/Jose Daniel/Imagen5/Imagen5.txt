@@ -1,0 +1,9 @@
+Tipo, Playera
+Talla, G
+Color, Morado pastel
+Temporada, Verano
+Genero, Hombre
+Estilo, Manga corta sin estampado y cuello redondo
+Pais, Mexico
+Marca, Lacoste
+Modelo, TH7618_5QD

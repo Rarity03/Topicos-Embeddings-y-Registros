@@ -1,0 +1,9 @@
+Tipo: Vestido camisero de manga larga con pliegues 
+Talla: M
+Color: Gris y blanco
+Temporada: Otoño
+Genero: Mujer
+Estilo: Casual | Formal
+Pais: China
+Marca: Generica
+Modelo: Generica

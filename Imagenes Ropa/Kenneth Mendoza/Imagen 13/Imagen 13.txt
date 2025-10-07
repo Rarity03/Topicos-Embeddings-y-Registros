@@ -1,0 +1,9 @@
+Tipo: Pantalon de vestir
+Talla: S | M | L | XL
+Color: Negro
+Temporada: Primavera | Verano
+Genero: Mujer
+Estilo: Casual | Formal
+Pais:
+Marca: GOYYNA
+Modelo: Stretch Elegante

@@ -1,0 +1,9 @@
+Tipo: Chaqueta
+Talla: S
+Color: Verde militar
+Temporada: Otoño
+Género: Mujer
+Estilo: Urbano
+País: Canadá
+Marca: The North Face
+Modelo: Windbreaker

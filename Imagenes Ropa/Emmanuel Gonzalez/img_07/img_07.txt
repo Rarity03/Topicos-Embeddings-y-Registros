@@ -1,0 +1,9 @@
+Tipo: Conjunto de 3 piezas (vestido + accesorios)
+Talla: Niña
+Color: Multicolor (abeja y mariquita, diseño de dibujos animados)
+Temporada: Primavera / Verano
+Género: Niña
+Estilo: Casual / Adorable / Infantil
+País: China
+Marca: Genérico
+Modelo: Genérico

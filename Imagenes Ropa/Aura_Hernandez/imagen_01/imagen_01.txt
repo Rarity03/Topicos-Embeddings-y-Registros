@@ -1,0 +1,9 @@
+Tipo: Vestido mujer 
+Talla: chico, mediano, grande
+Color: Champán
+Temporada: Otoño / Invierno
+Género: Unisex
+Estilo: Casual
+País: China
+Marca: YINGG
+Modelo: Genérico

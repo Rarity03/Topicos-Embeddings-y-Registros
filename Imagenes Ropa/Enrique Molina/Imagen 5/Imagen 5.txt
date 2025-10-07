@@ -1,0 +1,9 @@
+Tipo, Chamarra Caballero Mangas Y Cuello Elástico Casual Premium
+Talla, M
+Color, Cafe
+Temporada, Otoño/Invierno
+Genero, Hombre
+Estilo, Casual
+Pais, México
+Marca, Roosevelt
+Modelo, ERIK-LE2501

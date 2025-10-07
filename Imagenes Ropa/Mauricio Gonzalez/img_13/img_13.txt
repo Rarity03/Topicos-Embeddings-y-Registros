@@ -1,0 +1,9 @@
+Tipo: Chamarra impermeable
+Talla: Mediana
+Color: Amarillo
+Temporada: Otoño, Invierno, Verano	
+Género: Mujer
+Estilo: Casual
+País: Estados Unidos
+Marca: GIISAM   
+Modelo: B0B4355F68

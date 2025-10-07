@@ -1,0 +1,9 @@
+Tipo: Conjunto de 4 piezas (vestido de Navidad con sombrero y accesorios)
+Talla: Niño / Niña
+Color: Rojo con detalles blancos y multicolor
+Temporada: Otoño / Invierno / Festiva
+Género: Niño / Niña
+Estilo: Festivo / Navidad / Fiesta / Infantil
+País: China
+Marca: Genérico
+Modelo: Genérico

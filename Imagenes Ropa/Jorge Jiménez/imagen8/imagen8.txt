@@ -1,0 +1,9 @@
+Tipo, Bermuda
+Talla, M
+Color, Olivo
+Temporada, Verano 
+Genero, Hombre
+Estilo, Cargo
+Pais, México
+Marca, Malayerba Cuidado Con el Perro
+Modelo, 213250323030064

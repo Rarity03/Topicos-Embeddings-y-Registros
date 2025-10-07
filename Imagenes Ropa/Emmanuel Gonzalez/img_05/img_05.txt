@@ -1,0 +1,9 @@
+Tipo: Chaqueta bomber gruesa estilo vintage
+Talla: Regular
+Color: Azul Marino
+Temporada: Invierno
+Género: Hombre
+Estilo: Casual / Vintage
+País: China
+Marca: Genérico
+Modelo: Genérico

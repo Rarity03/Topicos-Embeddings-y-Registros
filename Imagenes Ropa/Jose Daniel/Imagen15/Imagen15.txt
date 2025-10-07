@@ -1,0 +1,9 @@
+Tipo: Blusa
+Talla: M | L | S | G | XL
+Color: Negro
+Temporada: Verano
+Genero: Mujer
+Estilo: Encaje | manga larga | transparencia | casual
+Pais: 
+Marca: Moises
+Modelo: Generico

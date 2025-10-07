@@ -1,0 +1,9 @@
+Tipo: Nautica Playera gráfica de Bandera
+Talla: Mediana
+Color: Azul marino
+Temporada: Invierno, otoño
+Género: Hombre
+Estilo: Clasico
+País: Guatemala
+Marca: Nautica
+Modelo: B08CWL9C2J

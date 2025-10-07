@@ -1,0 +1,9 @@
+Tipo, Falda
+Talla, 12
+Color, Negro
+Temporada, Otoño 
+Genero, Mujer
+Estilo,
+Pais, USA
+Marca, Anna Sui
+Modelo, 825K10

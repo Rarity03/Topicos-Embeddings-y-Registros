@@ -1,0 +1,9 @@
+Tipo: Playera Athlete Tee
+Talla: S
+Color: Gris
+Temporada: Sin temporada
+Genero: Mujer
+Estilo: Running
+Pais: Estados Unidos
+Marca: Reebok
+Modelo: TS0107

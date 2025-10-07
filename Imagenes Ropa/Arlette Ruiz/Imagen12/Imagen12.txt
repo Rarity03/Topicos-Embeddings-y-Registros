@@ -1,0 +1,9 @@
+Tipo: Chaleco
+Talla: G
+Color: Azul marino
+Temporada: Otoño, Invierno
+Género: Niños
+Estilo: Acolchado, ligero
+País: Vietnam
+Marca: Amazon Essentials
+Modelo:

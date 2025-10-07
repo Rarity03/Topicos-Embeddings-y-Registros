@@ -1,0 +1,9 @@
+Tipo: Ropa deportiva
+Talla: Chico, mediano, grande
+Color: Negro
+Temporada: Primavera / Otoño
+Género: Hombre
+Estilo: Casual
+País: China
+Marca: Mayana
+Modelo: Y+N+20

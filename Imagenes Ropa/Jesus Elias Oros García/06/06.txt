@@ -1,0 +1,13 @@
+Tipo: Tenis de piel
+
+Talla: 27cm
+
+Color: Café
+
+Estilo: Casual / Urbano
+
+Marca: Coach
+
+Temporada: continua
+
+Género: Hombre

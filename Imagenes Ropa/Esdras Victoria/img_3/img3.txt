@@ -1,0 +1,9 @@
+Tipo: Gabardina
+Talla: M
+Color: Beige
+Temporada: 
+Genero: Mujer
+Estilo: Botonadura doble
+País: México
+Marca: H&M
+Modelo: 1259401001

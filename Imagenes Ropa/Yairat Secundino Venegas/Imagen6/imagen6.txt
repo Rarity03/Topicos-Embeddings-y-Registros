@@ -1,0 +1,9 @@
+Tipo: Playera
+Talla: XL
+Color: Blanco
+Temporada: Todo el año
+Género: Unisex
+Estilo: Básico
+País: México
+Marca: Pull&Bear
+Modelo: Essential Tee

@@ -1,0 +1,9 @@
+Tipo: Pantalón de Dama Trabajo
+Talla: M
+Color: Gris
+Temporada: Primavera/Verano
+Genero: Mujer
+Estilo: Formal
+Pais: Estados Unidos
+Marca: Estilo Urbano
+Modelo: P13839

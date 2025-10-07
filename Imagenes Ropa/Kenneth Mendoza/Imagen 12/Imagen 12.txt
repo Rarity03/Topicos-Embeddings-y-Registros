@@ -1,0 +1,9 @@
+Tipo: Vestido largo
+Talla: M | L | XL
+Color: Rojo y blanco
+Temporada: Primavera | Verano
+Genero: Mujer
+Estilo: Casual | Formal
+Pais:
+Marca: Generica
+Modelo: Generica

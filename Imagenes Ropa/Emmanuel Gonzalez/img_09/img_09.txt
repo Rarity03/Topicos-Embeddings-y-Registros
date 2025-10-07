@@ -1,0 +1,9 @@
+Tipo: Vestido de verano de mezclilla
+Talla: Niña
+Color: Azul (denim) con bordados multicolor
+Temporada: Primavera / Verano
+Género: Niña
+Estilo: Casual / Infantil / Aire Libre
+País: China
+Marca: Genérico
+Modelo: Genérico

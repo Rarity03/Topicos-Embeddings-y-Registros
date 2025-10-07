@@ -1,0 +1,9 @@
+Tipo, Camisa
+Talla, M
+Color, Beige
+Temporada, Otoño
+Genero, Mujer
+Estilo, cuadros manga larga cuello en v con botones
+Pais, China
+Marca, Yiqinyuan
+Modelo, 

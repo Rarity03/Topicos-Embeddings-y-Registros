@@ -1,0 +1,9 @@
+Tipo, Sudadera
+Talla, M
+Color, Gris
+Temporada, Otoño
+Genero, Unisex
+Estilo, Casual
+Pais, México
+Marca, Optima
+Modelo, Hooddie Casual 504

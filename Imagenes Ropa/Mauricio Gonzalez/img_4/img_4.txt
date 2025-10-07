@@ -1,0 +1,9 @@
+Tipo: Disney Playera gráfica Blancanieves
+Talla: Grande
+Color: Negro
+Temporada: Invierno, otoño
+Género: Hombre
+Estilo: Casual
+País: Estados Unidos
+Marca: Disney
+Modelo: B072JPWGLM

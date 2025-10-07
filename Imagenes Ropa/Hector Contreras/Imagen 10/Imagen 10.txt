@@ -1,0 +1,9 @@
+Tipo: Jersey De Local Del Club América Hombre 25/26 Jn8612 adidas
+Talla: S
+Color: Amarillo
+Temporada: Verano
+Genero: Hombre
+Estilo: Deportivo
+Pais: Mexico
+Marca: Adidas
+Modelo: KRD14

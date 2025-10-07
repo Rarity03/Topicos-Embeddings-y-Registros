@@ -1,0 +1,9 @@
+Tipo, Pants
+Talla, M
+Color, Gris
+Temporada, Otoño
+Genero, Unisex
+Estilo, Deportivo
+Pais, México
+Marca, Optima
+Modelo, Grey Pants 78984

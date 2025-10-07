@@ -1,0 +1,11 @@
+Tipo: Blusa sin mangas
+Talla: M | L
+Color: Gris
+Temporada: Primavera | Verano
+Genero: Mujer
+Estilo: Casual | Trabajo
+Pais: 
+Marca: MESSINA ALPS
+Modelo:
+Precio: 200
+Stock: 6

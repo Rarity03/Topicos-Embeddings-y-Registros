@@ -1,0 +1,9 @@
+Tipo: Camisas de Manga Larga
+Talla: Chica
+Color: Verde
+Temporada: Otoño, Invierno, Verano
+Género: Hombre
+Estilo: Pesca
+País: China
+Marca: Tuna 
+Modelo: B089W1ZLRZ

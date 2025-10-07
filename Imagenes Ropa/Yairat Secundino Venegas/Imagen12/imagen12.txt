@@ -1,0 +1,9 @@
+Tipo: Suéter
+Talla: M
+Color: Marrón
+Temporada: Otoño
+Género: Unisex
+Estilo: Vintage
+País: Argentina
+Marca: Cardón
+Modelo: Knitwear

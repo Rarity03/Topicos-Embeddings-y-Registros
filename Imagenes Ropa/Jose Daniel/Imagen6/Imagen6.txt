@@ -1,0 +1,9 @@
+Tipo, Chamarra
+Talla, M
+Color, Rosa
+Temporada, Otoño
+Genero, Mujer
+Estilo, Deportivo
+Pais, Mexico
+Marca, CUBIC PLANET
+Modelo, 

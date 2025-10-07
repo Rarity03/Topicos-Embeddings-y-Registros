@@ -1,0 +1,9 @@
+Tipo: Abrigo
+Talla: L
+Color: Negro
+Temporada: Invierno
+Género: Mujer
+Estilo: Elegante
+País: Inglaterra
+Marca: Burberry
+Modelo: Classic Coat

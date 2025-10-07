@@ -1,0 +1,9 @@
+Tipo, Cardigan
+Talla, L
+Color, Navy
+Temporada, 
+Genero, Mujer
+Estilo,
+Pais, USA
+Marca, Anna Sui
+Modelo, AR07

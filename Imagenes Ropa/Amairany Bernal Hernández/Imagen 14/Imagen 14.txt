@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, 14
+Color, Plum
+Temporada, 
+Genero, Mujer
+Estilo,
+Pais,
+Marca, Vivienne Westwood
+Modelo, 11010379-W00NU--PLUM

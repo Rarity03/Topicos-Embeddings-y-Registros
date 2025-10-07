@@ -1,0 +1,9 @@
+Tipo: Suéter
+Talla: M
+Color: Hueso
+Temporada: Otoño 
+Género: Mujer
+Estilo: Tipo polo, ligero, cuello en V
+País:
+Marca: CIDER
+Modelo:

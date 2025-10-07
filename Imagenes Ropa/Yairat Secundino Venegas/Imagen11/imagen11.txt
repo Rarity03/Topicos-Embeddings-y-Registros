@@ -1,0 +1,9 @@
+Tipo: Traje
+Talla: 40
+Color: Azul marino
+Temporada: Todo el año
+Género: Hombre
+Estilo: Formal
+País: Italia
+Marca: Armani
+Modelo: Executive Fit

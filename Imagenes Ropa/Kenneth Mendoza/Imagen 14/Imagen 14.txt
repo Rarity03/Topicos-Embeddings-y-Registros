@@ -1,0 +1,9 @@
+Tipo: Playera 
+Talla: S | M | G
+Color: Negro
+Temporada:
+Genero: Hombre
+Estilo: Casual
+Pais:
+Marca: LZ
+Modelo: Jack Daniels

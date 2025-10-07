@@ -1,0 +1,9 @@
+Tipo, Corset
+Talla, 44
+Color, Rosa
+Temporada, 
+Genero, Mujer
+Estilo,
+Pais, Italia
+Marca, Vivienne Westwood
+Modelo, 18030063-Y003F--PETUNIA-PINK

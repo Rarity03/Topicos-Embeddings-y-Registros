@@ -1,0 +1,9 @@
+Tipo: Pantalones cortos
+Talla: XX
+Color: Verde militar
+Temporada: Verano
+Género: Mujer
+Estilo: Casual
+País: 
+Marca: Genérico
+Modelo:

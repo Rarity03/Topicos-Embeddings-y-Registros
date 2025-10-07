@@ -1,0 +1,9 @@
+Tipo, Playera Peanuts Snoopy
+Talla, 2-18
+Color, Roja
+Temporada, Anual
+Genero, Unisex
+Estilo, Estampada
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 304250913020756

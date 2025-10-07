@@ -1,0 +1,9 @@
+Tipo, Playera Manga Corta
+Talla, M
+Color, Rosa
+Temporada, Verano 
+Genero, Unisex
+Estilo, Cuello V
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 103241013020730

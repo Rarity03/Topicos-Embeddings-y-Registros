@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, S
+Color, Verde
+Temporada, Primavera 
+Genero, Mujer
+Estilo,
+Pais, Italia
+Marca, Blumarine
+Modelo,

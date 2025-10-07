@@ -1,0 +1,9 @@
+Tipo: Chubasquero
+Talla: M
+Color: Gris
+Temporada: Otoño, Invierno
+Género: Mujer
+Estilo: Impermeable, ligero, plegable
+País: China
+Marca: LAMA
+Modelo:

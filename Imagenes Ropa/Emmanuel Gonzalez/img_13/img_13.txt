@@ -1,0 +1,9 @@
+Tipo: Conjunto de tirantes (parte superior + pantalón)
+Talla: Niño
+Color: Parte superior multicolor, pantalón azul
+Temporada: Otoño / Invierno / Festiva (Halloween)
+Género: Niño
+Estilo: Fiesta / Festiva / Actuación / Infantil
+País: China
+Marca: Genérico
+Modelo: Genérico

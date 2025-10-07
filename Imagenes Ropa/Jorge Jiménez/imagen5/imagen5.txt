@@ -1,0 +1,9 @@
+Tipo, Sudadera Letra S
+Talla, M
+Color, Gris
+Temporada, Anual 
+Genero, Hombre
+Estilo, Casual Cuello Redondo
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 210250951110109

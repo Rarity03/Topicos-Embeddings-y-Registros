@@ -1,0 +1,9 @@
+Tipo: Abrigo Cazador Invierno
+Talla: S
+Color: Verde Olivo
+Temporada: Otoño/Invierno
+Genero: Mujer
+Estilo: Casual
+Pais: Japón
+Marca: T-lab
+Modelo: T.LAB JACKET

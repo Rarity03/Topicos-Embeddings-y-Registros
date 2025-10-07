@@ -1,0 +1,9 @@
+Tipo: pantalón hombre casual
+Talla: chico, mediano, grande, extra-grande
+Color: Caqui, cafe
+Temporada: Primavera / Verano
+Género: Hombre
+Estilo: Casual
+País: China
+Marca: Vndflag
+Modelo: Genérico

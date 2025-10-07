@@ -1,0 +1,9 @@
+Tipo, Top Crop
+Talla, S
+Color, Rojo
+Temporada, Verano 
+Genero, Mujer
+Estilo, Argolla Corazon Rojo
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 120250613070056

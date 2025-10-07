@@ -1,0 +1,9 @@
+Tipo, Falda
+Talla, M
+Color, Cream
+Temporada, Otoño
+Genero, Mujer
+Estilo,
+Pais, USA
+Marca, Anna Sui
+Modelo, 725N10

@@ -1,0 +1,9 @@
+Tipo: Impermeable
+Talla: G
+Color: Verde caqui
+Temporada: 
+Genero: Mujer
+Estilo: Deportivo (Senderismo)
+País: México
+Marca: H&M
+Modelo: 1283791001

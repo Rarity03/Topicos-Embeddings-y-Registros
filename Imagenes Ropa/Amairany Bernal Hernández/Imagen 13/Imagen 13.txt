@@ -1,0 +1,9 @@
+Tipo, Falda
+Talla, 36
+Color, Black-red
+Temporada, 
+Genero, Mujer
+Estilo,
+Pais, Francia
+Marca, Isabel Marant
+Modelo,

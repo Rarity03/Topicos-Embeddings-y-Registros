@@ -1,0 +1,9 @@
+Tipo, Playera Dragon Ball
+Talla, M
+Color, Negra Llamas Azules
+Temporada, Verano 
+Genero, Unisex
+Estilo, Estampada
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 112250713020252

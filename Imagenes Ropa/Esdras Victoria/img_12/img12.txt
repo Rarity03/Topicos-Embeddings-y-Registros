@@ -1,0 +1,9 @@
+Tipo: Falda
+Talla: 32
+Color: Azul
+Temporada: 
+Genero: Mujer
+Estilo: Mini con remaches
+País: México 
+Marca: C&A
+Modelo: 3113496

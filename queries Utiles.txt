@@ -1,0 +1,41 @@
+SELECT 'Users' as tabla, COUNT(*) as total_registros FROM Users
+UNION ALL
+SELECT 'User_Credentials' as tabla, COUNT(*) as total_registros FROM User_Credentials
+UNION ALL
+SELECT 'Addresses' as tabla, COUNT(*) as total_registros FROM Addresses
+UNION ALL
+SELECT 'Favorites' as tabla, COUNT(*) as total_registros FROM Favorites
+UNION ALL
+SELECT 'Comments' as tabla, COUNT(*) as total_registros FROM Comments
+UNION ALL
+SELECT 'Orders' as tabla, COUNT(*) as total_registros FROM Orders
+UNION ALL
+SELECT 'OrderItems' as tabla, COUNT(*) as total_registros FROM OrderItems
+ORDER BY total_registros DESC;
+
+SELECT * FROM Users LIMIT 10;
+SELECT * FROM User_Credentials LIMIT 10;
+SELECT * FROM Addresses LIMIT 10;
+SELECT * FROM Favorites LIMIT 10;
+SELECT * FROM Comments LIMIT 10;
+SELECT * FROM Orders LIMIT 10;
+SELECT * FROM OrderItems LIMIT 10;
+
+\pset pager off
+\echo 'Users'
+SELECT * FROM Users LIMIT 10;
+\echo 'User_Credentials'
+SELECT * FROM User_Credentials LIMIT 10;
+\echo 'Addresses'
+SELECT * FROM Addresses LIMIT 10;
+\echo 'Favorites'
+SELECT * FROM Favorites LIMIT 10;
+\echo 'Comments'
+SELECT * FROM Comments LIMIT 10;
+\echo 'Orders'
+SELECT * FROM Orders LIMIT 10;
+\echo 'OrderItems'
+SELECT * FROM OrderItems LIMIT 10;
+
+
+TRUNCATE TABLE Users, Addresses, Favorites, Orders RESTART IDENTITY CASCADE;

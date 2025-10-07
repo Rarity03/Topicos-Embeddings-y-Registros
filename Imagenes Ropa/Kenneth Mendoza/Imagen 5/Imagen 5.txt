@@ -1,0 +1,9 @@
+Tipo: Gorra lisa curva
+Talla: Unitalla
+Color: Rosa
+Temporada: Primavera | Verano
+Genero: Unisex
+Estilo: Casual
+Pais:
+Marca: Generica
+Modelo: Basica

@@ -1,0 +1,17 @@
+Tipo: Camiseta de manga corta
+
+Talla: M
+
+Color: Blanco con estampado de texto negro
+
+Temporada: Verano
+
+Género: Femenino
+
+Estilo: Urbano / Casual
+
+País: Estados Unidos
+
+Marca: Urban Vibe
+
+Modelo: New York City Tee

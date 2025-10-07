@@ -1,0 +1,9 @@
+Tipo, Sweater
+Talla, XL
+Color, Blanco
+Temporada, 
+Genero, Mujer
+Estilo,
+Pais, 
+Marca, Sonia Rykiel
+Modelo,

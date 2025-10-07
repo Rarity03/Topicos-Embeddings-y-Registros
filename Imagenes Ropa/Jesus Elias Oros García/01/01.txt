@@ -1,0 +1,7 @@
+Tipo: tweed jacket
+Talla: Mediano
+Color: Blanco
+Estilo: Old money
+Marca: Sfera
+Temporada: Primavera
+Género: Femenino

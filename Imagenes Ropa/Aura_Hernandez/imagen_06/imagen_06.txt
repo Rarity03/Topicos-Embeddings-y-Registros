@@ -1,0 +1,9 @@
+Tipo: Camisa Hawaiana Hombre Camisa Slim Fit Camisa Hombre
+Talla: chico, mediano, grande
+Color: rojo
+Temporada: Primavera / Verano
+Género: hombre
+Estilo: Casual, trabajo, vacaciones
+País: China
+Marca: HERNANDEZ SANTIAGO14
+Modelo: Genérico

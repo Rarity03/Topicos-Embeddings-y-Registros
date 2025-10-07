@@ -1,0 +1,9 @@
+Tipo, Crop Top 
+Talla, G
+Color, Negro
+Temporada, Verano
+Genero, Mujer
+Estilo, Cuello redondo manga larga elastico
+Pais, Estados Unidos
+Marca, Artfish
+Modelo, 

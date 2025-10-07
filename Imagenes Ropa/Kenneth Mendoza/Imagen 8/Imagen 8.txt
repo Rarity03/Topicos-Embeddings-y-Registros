@@ -1,0 +1,9 @@
+Tipo: Falda deportiva
+Talla: S | M | L | XL | XXL
+Color: Azul
+Temporada: 
+Genero: Mujer
+Estilo: Deportivo
+Pais:
+Marca: Qmczla
+Modelo: falda deportiva,lycra

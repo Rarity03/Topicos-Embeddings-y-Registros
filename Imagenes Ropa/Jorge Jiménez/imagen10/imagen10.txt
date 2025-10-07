@@ -1,0 +1,9 @@
+Tipo, Top sin Mangas a Rayas
+Talla, M
+Color, Blanco con Negro
+Temporada, Verano 
+Genero, Mujer
+Estilo, Tejido Cuello Redondo y Ruedo en Semicirular
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 103250213070186

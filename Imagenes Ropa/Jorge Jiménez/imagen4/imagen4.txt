@@ -1,0 +1,9 @@
+Tipo, Jeans Mezclilla 
+Talla, 28-36
+Color, Azul Oscuro
+Temporada, Anual 
+Genero, Hombre
+Estilo, Amplio
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 103241013020730

@@ -1,0 +1,9 @@
+Tipo, Camisa Signature Leyenda Checo Pérez Blanco
+Talla, M
+Color, Blanca
+Temporada, No
+Genero, Hombre
+Estilo, Casual
+Pais, México
+Marca, MAJA SPORTSWEAR
+Modelo, C-CO27-2

@@ -1,0 +1,9 @@
+Tipo: Blusa de manga corta
+Talla: Chica
+Color: Rosa
+Temporada: Verano	
+Género: Mujer
+Estilo: Casual
+País: China
+Marca: French Toast     
+Modelo: B01DDDJ1DC

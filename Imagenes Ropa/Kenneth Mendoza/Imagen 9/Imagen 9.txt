@@ -1,0 +1,9 @@
+Tipo: Calceta deportiva
+Talla: Unitalla
+Color: Negro
+Temporada:
+Genero: Hombre
+Estilo: Diario
+Pais:
+Marca: foofoo
+Modelo: nautica

@@ -1,0 +1,9 @@
+Tipo: Sudadera
+Talla: L
+Color: Gris
+Temporada: Otoño
+Género: Hombre
+Estilo: Deportivo
+País: Estados Unidos
+Marca: Nike
+Modelo: Hoodie Air

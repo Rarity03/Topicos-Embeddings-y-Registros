@@ -1,0 +1,9 @@
+Tipo, Conjunto Largo
+Talla, 2-18
+Color, Verde con Blanco
+Temporada, Verano 
+Genero, Unisex
+Estilo, Pans Estampado
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 304250932010742

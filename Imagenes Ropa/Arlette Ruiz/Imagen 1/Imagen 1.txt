@@ -1,0 +1,9 @@
+Tipo: Conjunto de pijama
+Talla: M
+Color: Durazno
+Temporada: Invierno
+Género: Mujer
+Estilo: Casual / Loungewear
+País: México
+Marca: DOFON
+Modelo: Conjunto de pijama manga larga con botones

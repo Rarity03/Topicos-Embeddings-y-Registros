@@ -1,0 +1,9 @@
+Tipo: Gorra Puma Gold Metal Cat
+Talla: Unitalla
+Color: Negro
+Temporada:
+Genero: Unisex
+Estilo: Casual
+Pais:
+Marca: Puma
+Modelo: 2415801

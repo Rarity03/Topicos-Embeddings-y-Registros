@@ -1,0 +1,327 @@
+CREATE EXTENSION IF NOT EXISTS vector; 
+
+CREATE TABLE Users ( 
+
+    user_id SERIAL PRIMARY KEY, 
+
+    first_name VARCHAR(100) NOT NULL, 
+
+    second_name VARCHAR(100), 
+
+    first_lastname VARCHAR(100) NOT NULL, 
+
+    second_lastname VARCHAR(100), 
+
+    date_of_birth DATE, 
+
+    created_at TIMESTAMPTZ DEFAULT now(), 
+
+    updated_at TIMESTAMPTZ DEFAULT now(), 
+
+    is_active BOOLEAN DEFAULT TRUE 
+
+); 
+
+ 
+
+CREATE TABLE User_Credentials ( 
+
+    credential_id SERIAL PRIMARY KEY, 
+
+    user_id INT UNIQUE NOT NULL REFERENCES Users(user_id) ON DELETE CASCADE, 
+
+    email VARCHAR(255) UNIQUE NOT NULL, 
+
+    password_hash VARCHAR(255) NOT NULL, 
+
+    last_login TIMESTAMPTZ 
+
+); 
+
+ 
+
+CREATE TABLE Access_Tokens ( 
+
+    access_token_id SERIAL PRIMARY KEY, 
+
+    user_id INT NOT NULL REFERENCES Users(user_id) ON DELETE CASCADE, 
+
+    token TEXT NOT NULL, 
+
+    is_expired BOOLEAN DEFAULT FALSE, 
+
+    created_at TIMESTAMPTZ DEFAULT now(), 
+
+    was_revoked BOOLEAN DEFAULT FALSE 
+
+); 
+
+ 
+
+CREATE TABLE Addresses ( 
+
+    address_id SERIAL PRIMARY KEY, 
+
+    user_id INT NOT NULL REFERENCES Users(user_id) ON DELETE CASCADE, 
+
+    street_name VARCHAR(255) NOT NULL, 
+
+    number VARCHAR(50), 
+
+    city VARCHAR(100) NOT NULL, 
+
+    state VARCHAR(100) NOT NULL, 
+
+    country VARCHAR(100) NOT NULL, 
+
+    postal_code VARCHAR(20) NOT NULL 
+
+); 
+
+CREATE TABLE Categories ( 
+
+    category_id SERIAL PRIMARY KEY, 
+
+    name VARCHAR(255) NOT NULL, 
+
+    description TEXT 
+
+); 
+
+
+CREATE TABLE Products ( 
+
+    product_id SERIAL PRIMARY KEY, 
+
+    name VARCHAR(255) NOT NULL, 
+
+    description TEXT, 
+
+    price DECIMAL(10, 2) NOT NULL CHECK (price >= 0), 
+
+    stock INT NOT NULL CHECK (stock >= 0), 
+
+    -- Atributos adicionales 
+
+    tipo VARCHAR(100), 
+
+    size VARCHAR(50), 
+
+    model VARCHAR(100), 
+
+    color VARCHAR(50), 
+
+    season VARCHAR(50), 
+
+    style VARCHAR(100), 
+
+    brand VARCHAR(100), 
+
+    genre VARCHAR(50), 
+
+    origin_country VARCHAR(100), 
+
+    image_url VARCHAR(255) NOT NULL, 
+
+    created_at TIMESTAMPTZ DEFAULT now(), 
+
+    updated_at TIMESTAMPTZ DEFAULT now() 
+
+); 
+
+
+CREATE TABLE Product_Categories ( 
+
+    product_id INT NOT NULL REFERENCES Products(product_id) ON DELETE CASCADE, 
+
+    category_id INT NOT NULL REFERENCES Categories(category_id) ON DELETE CASCADE, 
+
+    PRIMARY KEY (product_id, category_id) 
+
+); 
+
+
+CREATE TABLE ProductVectors ( 
+
+    product_id INT PRIMARY KEY REFERENCES Products(product_id) ON DELETE CASCADE, 
+
+    -- NOTA: Reemplaza '512' con las dimensiones reales de los modelos de IA 
+
+    embedding VECTOR(512) 
+
+); 
+
+CREATE TABLE Favorites ( 
+
+    favorite_id SERIAL PRIMARY KEY, 
+
+    user_id INT NOT NULL REFERENCES Users(user_id) ON DELETE CASCADE, 
+
+    product_id INT NOT NULL REFERENCES Products(product_id) ON DELETE CASCADE, 
+
+    UNIQUE (user_id, product_id) 
+
+); 
+
+
+CREATE TABLE Comments ( 
+
+    comment_id SERIAL PRIMARY KEY, 
+
+    user_id INT NOT NULL REFERENCES Users(user_id) ON DELETE CASCADE, 
+
+    product_id INT NOT NULL REFERENCES Products(product_id) ON DELETE CASCADE, 
+
+    text TEXT NOT NULL, 
+
+    commented_at TIMESTAMPTZ DEFAULT now() 
+
+); 
+
+CREATE TABLE ShoppingCarts ( 
+
+    shopping_cart_id SERIAL PRIMARY KEY, 
+
+    user_id INT UNIQUE NOT NULL REFERENCES Users(user_id) ON DELETE CASCADE, 
+
+    created_at TIMESTAMPTZ DEFAULT now(), 
+
+    updated_at TIMESTAMPTZ DEFAULT now() 
+
+); 
+
+CREATE TABLE ShoppingCart_Products ( 
+
+    shopping_cart_id INT NOT NULL REFERENCES ShoppingCarts(shopping_cart_id) ON DELETE CASCADE, 
+
+    product_id INT NOT NULL REFERENCES Products(product_id) ON DELETE CASCADE, 
+
+    quantity INT NOT NULL CHECK (quantity > 0), 
+
+    PRIMARY KEY (shopping_cart_id, product_id) 
+
+); 
+
+CREATE TABLE Orders ( 
+
+    order_id SERIAL PRIMARY KEY, 
+
+    user_id INT NOT NULL REFERENCES Users(user_id) ON DELETE RESTRICT, 
+
+    address_id INT NOT NULL REFERENCES Addresses(address_id) ON DELETE RESTRICT, 
+
+    status VARCHAR(50) DEFAULT 'pending', 
+
+    order_date TIMESTAMPTZ DEFAULT now(), 
+
+    total_price DECIMAL(10, 2) NOT NULL 
+
+); 
+
+CREATE TABLE OrderItems ( 
+
+    order_item_id SERIAL PRIMARY KEY, 
+
+    order_id INT NOT NULL REFERENCES Orders(order_id) ON DELETE CASCADE, 
+
+    product_id INT NOT NULL REFERENCES Products(product_id) ON DELETE RESTRICT, 
+
+    quantity INT NOT NULL CHECK (quantity > 0), 
+
+    price_at_purchase DECIMAL(10, 2) NOT NULL 
+
+); 
+
+CREATE INDEX idx_user_credentials_user_id ON User_Credentials(user_id); 
+
+CREATE INDEX idx_access_tokens_user_id ON Access_Tokens(user_id); 
+
+CREATE INDEX idx_addresses_user_id ON Addresses(user_id); 
+
+CREATE INDEX idx_favorites_user_id ON Favorites(user_id); 
+
+CREATE INDEX idx_favorites_product_id ON Favorites(product_id); 
+
+CREATE INDEX idx_comments_user_id ON Comments(user_id); 
+
+CREATE INDEX idx_comments_product_id ON Comments(product_id); 
+
+CREATE INDEX idx_orders_user_id ON Orders(user_id); 
+
+CREATE INDEX idx_orderitems_order_id ON OrderItems(order_id); 
+
+CREATE INDEX idx_orderitems_product_id ON OrderItems(product_id); 
+
+CREATE INDEX idx_productvectors_embedding ON ProductVectors USING hnsw (embedding vector_cosine_ops); 
+
+
+CREATE OR REPLACE FUNCTION trigger_set_timestamp() 
+
+RETURNS TRIGGER AS $$ 
+
+BEGIN 
+
+  NEW.updated_at = NOW(); 
+
+  RETURN NEW; 
+
+END; 
+
+$$ LANGUAGE plpgsql; 
+
+
+CREATE TRIGGER set_timestamp_users 
+
+BEFORE UPDATE ON Users 
+
+FOR EACH ROW 
+
+EXECUTE FUNCTION trigger_set_timestamp(); 
+
+ 
+
+CREATE TRIGGER set_timestamp_products 
+
+BEFORE UPDATE ON Products 
+
+FOR EACH ROW 
+
+EXECUTE FUNCTION trigger_set_timestamp(); 
+
+ 
+
+CREATE TRIGGER set_timestamp_shoppingcarts 
+
+BEFORE UPDATE ON ShoppingCarts 
+
+FOR EACH ROW 
+
+EXECUTE FUNCTION trigger_set_timestamp(); 
+
+CREATE OR REPLACE FUNCTION update_order_total_price()
+RETURNS TRIGGER AS $$
+DECLARE
+    v_order_id INT;
+BEGIN
+    IF (TG_OP = 'DELETE') THEN
+        v_order_id := OLD.order_id;
+    ELSE
+        v_order_id := NEW.order_id;
+    END IF;
+
+    UPDATE Orders
+    SET total_price = (
+        SELECT COALESCE(SUM(quantity * price_at_purchase), 0)
+        FROM OrderItems
+        WHERE order_id = v_order_id
+    )
+    WHERE order_id = v_order_id;
+
+    RETURN NULL;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER trigger_update_order_total
+AFTER INSERT OR UPDATE OR DELETE ON OrderItems
+FOR EACH ROW
+EXECUTE FUNCTION update_order_total_price();

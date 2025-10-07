@@ -1,0 +1,9 @@
+Tipo: Pantalón
+Talla: 32
+Color: Negro
+Temporada: Invierno
+Género: Unisex
+Estilo: Urbano
+País: España
+Marca: Levi’s
+Modelo: 511 Skinny

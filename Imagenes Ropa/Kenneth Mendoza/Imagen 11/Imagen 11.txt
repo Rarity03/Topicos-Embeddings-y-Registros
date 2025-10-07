@@ -1,0 +1,9 @@
+Tipo: Corbata
+Talla: Unitalla
+Color: Azul oscuro
+Temporada:
+Genero: Hombre
+Estilo: Formal
+Pais:
+Marca: Generica
+Modelo: Generica

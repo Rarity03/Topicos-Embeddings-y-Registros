@@ -1,0 +1,9 @@
+Tipo, Sudadera
+Talla, L
+Color, Azul
+Temporada, Verano
+Genero, Hombre
+Estilo, Bordado
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 203250451110231

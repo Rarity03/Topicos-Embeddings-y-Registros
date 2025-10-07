@@ -1,0 +1,17 @@
+Tipo: Conjunto deportivo de camiseta y shorts.
+
+Talla: L
+
+Color: Negro y verde oscuro
+
+Temporada: Verano
+
+Género: Masculino
+
+Estilo: Deportivo / Entrenamiento
+
+País: Taiwán
+
+Marca: Sport Tech
+
+Modelo: Two Tone

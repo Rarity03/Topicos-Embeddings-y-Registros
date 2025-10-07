@@ -1,0 +1,17 @@
+Tipo: Camiseta de compresión de manga larga
+
+Talla: L
+
+Color: Negro
+
+Temporada: Todas
+
+Género: Masculino
+
+Estilo: Deportivo / Ropa interior técnica
+
+País: Vietnam
+
+Marca: ProFormance
+
+Modelo: Compression 360

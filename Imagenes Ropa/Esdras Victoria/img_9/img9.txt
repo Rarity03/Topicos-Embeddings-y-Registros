@@ -1,0 +1,9 @@
+Tipo: Jeans
+Talla: 31
+Color: Indigo
+Temporada: 
+Genero: Hombre
+Estilo: Mezclilla
+País: México
+Marca: BOBOIS
+Modelo: 39720394588353

@@ -1,0 +1,9 @@
+Tipo: Chaqueta tipo denim con forro polar grueso
+Talla: Regular
+Color: Azul (denim)
+Temporada: Invierno
+Género: Hombre
+Estilo: Casual / Clásico / Exterior / Aire Libre
+País: China
+Marca: Genérico
+Modelo: Genérico

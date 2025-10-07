@@ -1,0 +1,9 @@
+Tipo, Shorts
+Talla, G
+Color, Negro
+Temporada, 
+Genero, Hombre
+Estilo, Deportivo
+Pais, Mexico
+Marca, QY2
+Modelo, 

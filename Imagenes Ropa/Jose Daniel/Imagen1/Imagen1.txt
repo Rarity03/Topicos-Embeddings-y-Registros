@@ -1,0 +1,9 @@
+Tipo, playera tipo polo
+Talla, M
+Color, Blanco
+Temporada, Verano
+Genero, Hombre
+Estilo, Manga corta
+Pais, México
+Marca, X-Shadow
+Modelo, 607012Xsh

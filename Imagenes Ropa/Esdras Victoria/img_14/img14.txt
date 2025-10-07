@@ -1,0 +1,9 @@
+Tipo: Moño 
+Talla: Unitalla
+Color: Rojo
+Temporada: 
+Genero: Mujer
+Estilo: Para cabello
+País: México
+Marca: C&A
+Modelo: 3109918

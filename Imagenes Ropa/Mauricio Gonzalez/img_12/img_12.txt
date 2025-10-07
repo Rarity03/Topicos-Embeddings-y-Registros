@@ -1,0 +1,9 @@
+Tipo: Pantalones de trabajo
+Talla: Grande
+Color: Rojo
+Temporada: Primavera/Verano/Otoño	
+Género: Mujer
+Estilo: Casual
+País: China
+Marca: PRETTYGARDEN   
+Modelo: B0D11C2Y3W

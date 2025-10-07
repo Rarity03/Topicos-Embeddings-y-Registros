@@ -1,0 +1,9 @@
+Tipo: Top
+Talla: CH
+Color: Negro
+Temporada:
+Genero: Mujer
+Estilo: Cuello V
+País: México
+Marca: C&A
+Modelo: 3102648

@@ -1,0 +1,9 @@
+Tipo: Calcetines cortos
+Talla: Unitalla
+Color: Negro 
+Temporada: 
+Genero: Hombre
+Estilo: Casual
+Pais:
+Marca: anthichen
+Modelo: YDDW

@@ -1,0 +1,9 @@
+Tipo, Pans
+Talla, 6-18
+Color, Negro lineas Blancas
+Temporada, Anual
+Genero, Mujer
+Estilo, Pans Recto Casual
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 405250921080532

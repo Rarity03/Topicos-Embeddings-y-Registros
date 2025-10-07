@@ -1,0 +1,9 @@
+Tipo, Tenis para Correr de Hombre Nike Revolution
+Talla, 27 MX
+Color, Verde
+Temporada, No
+Genero, Hombre
+Estilo, Running
+Pais, México
+Marca, Nike
+Modelo, HJ9198-300

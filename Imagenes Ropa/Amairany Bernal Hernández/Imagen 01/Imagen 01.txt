@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, 2XG
+Color, Amarillo
+Temporada, Primavera
+Genero, Mujer
+Estilo, Disfraces y Cosplay
+Pais, 
+Marca, Hikvison
+Modelo,

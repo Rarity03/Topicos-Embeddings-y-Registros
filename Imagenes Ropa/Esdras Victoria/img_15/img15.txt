@@ -1,0 +1,9 @@
+Tipo: Pantalón
+Talla: 28
+Color: Negro
+Temporada:
+Genero: Mujer
+Estilo: Contraste Cintura
+País: Méxic
+Marca: C&A
+Modelo: 3105463

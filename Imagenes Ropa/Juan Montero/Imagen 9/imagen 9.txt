@@ -1,0 +1,9 @@
+Tipo, Pantalón de vestir
+Talla, 32
+Color, Negro
+Temporada, Otoño
+Genero, Hombre
+Estilo, Formal
+Pais, México
+Marca, Robert's
+Modelo, Pantalón Contemporary ROCCPASVLN0018

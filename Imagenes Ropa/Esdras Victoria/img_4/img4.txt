@@ -1,0 +1,9 @@
+Tipo: Medias
+Talla: 
+Color: 
+Temporada:
+Genero: Mujer
+Estilo: Medias Pelo
+País: México
+Marca: STUDIO F
+Modelo:S219221

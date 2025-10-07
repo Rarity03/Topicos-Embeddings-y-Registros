@@ -1,0 +1,9 @@
+Tipo: Playera clásica de Manga Corta
+Talla: Grande
+Color: Negro
+Temporada: Primavera, otoño
+Género: Hombre
+Estilo: Casual
+País: Francia
+Marca: Lacoste
+Modelo: B073SHLJWC

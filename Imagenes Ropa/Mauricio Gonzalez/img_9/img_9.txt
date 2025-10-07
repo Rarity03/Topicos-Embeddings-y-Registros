@@ -1,0 +1,9 @@
+Tipo: Legging para Deporte 
+Talla: Extra chico
+Color: Negro
+Temporada: Primavera-verano
+Género: Mujer
+Estilo: Sport
+País: Indonesia
+Marca: Adidas 
+Modelo: 28883

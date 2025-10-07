@@ -1,0 +1,17 @@
+Tipo: Conjunto deportivo de camiseta y pants
+
+Talla: M
+
+Color: Negro y gris
+
+Temporada: Primavera / Verano
+
+Género: Unisex
+
+Estilo: Deportivo / Casual
+
+País: Taiwán
+
+Marca: AeroFlow
+
+Modelo: Dynamic Duo

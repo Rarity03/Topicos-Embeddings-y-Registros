@@ -1,0 +1,9 @@
+Tipo: Conjunto de dos piezas
+Talla: M
+Color: Blanco
+Temporada: Otoño, Invierno
+Género: Mujer
+Estilo: Casual, deportivo
+País: 
+Marca: VIOPY
+Modelo: 

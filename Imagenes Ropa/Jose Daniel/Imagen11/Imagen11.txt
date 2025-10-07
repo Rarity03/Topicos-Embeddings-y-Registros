@@ -1,0 +1,9 @@
+Tipo: Camisa 
+Talla: CH | M | G | L
+Color: Blanco
+Temporada: 
+Genero: Hombre
+Estilo: manga larga | formal 
+Pais:
+Marca: J'S FASHION 
+Modelo: Generico

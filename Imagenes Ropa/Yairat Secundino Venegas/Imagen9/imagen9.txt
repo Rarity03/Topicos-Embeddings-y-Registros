@@ -1,0 +1,9 @@
+Tipo: Shorts
+Talla: 30
+Color: Beige
+Temporada: Verano
+Género: Hombre
+Estilo: Playero
+País: Brasil
+Marca: Havaianas
+Modelo: Beachwear

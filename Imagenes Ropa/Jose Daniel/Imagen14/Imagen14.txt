@@ -1,0 +1,9 @@
+Tipo: Falda corta
+Talla: S | M | L | XL
+Color: Negro
+Temporada: 
+Genero: Mujer
+Estilo: Plisada 
+Pais: China
+Marca: YOOZMEX HONJOENG
+Modelo: Generico

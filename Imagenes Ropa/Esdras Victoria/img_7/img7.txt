@@ -1,0 +1,9 @@
+Tipo: Bermuda
+Talla: 29
+Color: Negro
+Temporada: 
+Genero: Hombre
+Estilo: Slim Fit
+País: México
+Marca: BOBOIS
+Modelo: 43870716264668

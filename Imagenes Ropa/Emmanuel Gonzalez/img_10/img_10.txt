@@ -1,0 +1,9 @@
+Tipo: Vestido de manga larga
+Talla: Niña
+Color: Azul Marino con rayas multicolor
+Temporada: Otoño / Invierno
+Género: Niña
+Estilo: Princesa / Casual / Infantil
+País: China
+Marca: Genérico
+Modelo: Genérico

@@ -1,0 +1,9 @@
+Tipo, Playera
+Talla, M
+Color, Verde
+Temporada, Verano
+Genero, Hombre
+Estilo, Casual
+Pais, China
+Marca, Oops Jeans
+Modelo, Great T-shirt-Green

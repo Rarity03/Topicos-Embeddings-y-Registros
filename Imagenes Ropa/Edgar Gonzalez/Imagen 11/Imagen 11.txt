@@ -1,0 +1,9 @@
+Tipo: Sudadera con Capucha
+Talla: L
+Color: Negro con logo blanco
+Temporada: Todo el año
+Género: Unisex
+Estilo: Urbano/Skate
+País: Canadá
+Marca: "Maple Street"
+Modelo: "Urban Explorer"

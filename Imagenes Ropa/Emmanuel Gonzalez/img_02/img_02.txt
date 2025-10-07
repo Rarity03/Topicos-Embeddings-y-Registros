@@ -1,0 +1,9 @@
+Tipo: Chaqueta de béisbol
+Talla: Regular
+Color: Verde y Blanco
+Temporada: Otoño / Invierno
+Género: Hombre
+Estilo: Urbano / Casual / Diario
+País: China
+Marca: Genérico
+Modelo: Genérico

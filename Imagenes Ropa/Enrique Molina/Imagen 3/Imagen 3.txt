@@ -1,0 +1,9 @@
+Tipo: Tenis Lacoste Sintéticos
+Talla: 28 MX
+Color: Negro
+Temporada: Primavera/Verano
+Genero: Hombre
+Estilo: Casual
+Pais: México
+Marca: Lacoste
+Modelo: Chaymon

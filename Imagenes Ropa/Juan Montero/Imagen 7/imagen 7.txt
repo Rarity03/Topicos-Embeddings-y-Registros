@@ -1,0 +1,9 @@
+Tipo, Camisa manga corta
+Talla, M
+Color, Verde
+Temporada, Verano
+Genero, Hombre
+Estilo, Casual
+Pais, China
+Marca, Optima
+Modelo, Beach Shirt

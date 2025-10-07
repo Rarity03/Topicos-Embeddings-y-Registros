@@ -1,0 +1,9 @@
+Tipo: Falda Plisada
+Talla: S
+Color: Amarillo mostaza
+Temporada: Otoño
+Género: Femenino
+Estilo: Vintage
+País: Reino Unido
+Marca: "Retro Chic"
+Modelo: "Autumn Breeze"

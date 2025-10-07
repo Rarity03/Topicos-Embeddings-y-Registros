@@ -1,0 +1,9 @@
+Tipo: Conjunto deportivo
+Talla: M
+Color: Negro
+Temporada: Otoño
+Género: Mujer
+Estilo: Deportivo
+País: 
+Marca: WOMICHEFI
+Modelo: 

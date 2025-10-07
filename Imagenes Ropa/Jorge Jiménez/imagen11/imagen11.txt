@@ -1,0 +1,9 @@
+Tipo, Calcetas con Carita Ok
+Talla, One Size
+Color, Blanco con Negro
+Temporada, Anual
+Genero, Mujer
+Estilo, Urbano
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 512250146030527

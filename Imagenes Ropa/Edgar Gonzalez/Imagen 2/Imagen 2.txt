@@ -1,0 +1,9 @@
+Tipo: Vestido de Cóctel
+Talla: S
+Color: Azul marino
+Temporada: Primavera/Otoño
+Género: Femenino
+Estilo: Elegante
+País: Francia
+Marca: "Belle Nuit"
+Modelo: "Étoile Bleue"

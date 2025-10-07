@@ -1,0 +1,9 @@
+Tipo: Guantes para motociclista
+Talla: M | G | XL | XXL
+Color: Negro
+Temporada:
+Genero: Unisex
+Estilo: Casual
+Pais:
+Marca: Ghost Racing
+Modelo: Generica

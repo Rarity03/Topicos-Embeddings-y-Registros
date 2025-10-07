@@ -1,0 +1,17 @@
+Tipo: Pantalones cargo
+
+Talla: L
+
+Color: Kaki
+
+Temporada: Todas
+
+Género: Masculino
+
+Estilo: Urbano / Casual
+
+País: Pakistán
+
+Marca: Adventurer Co.
+
+Modelo: Urban Cargo

@@ -1,0 +1,9 @@
+Tipo: Playera 
+Talla: Extra grande
+Color: Blanco
+Temporada: Verano
+Género: Hombre
+Estilo: Casual
+País: Mexico
+Marca: HUGO BOSS
+Modelo: 50522376

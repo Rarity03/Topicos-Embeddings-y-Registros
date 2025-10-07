@@ -1,0 +1,9 @@
+Tipo: Pantalones Chinos
+Talla: 34x30
+Color: Beige
+Temporada: Primavera/Verano
+Género: Masculino
+Estilo: Smart Casual
+País: España
+Marca: "Sol y Sombra"
+Modelo: "Mediterráneo"

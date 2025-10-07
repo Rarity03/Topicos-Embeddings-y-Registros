@@ -1,0 +1,9 @@
+Tipo, Sudadera
+Talla, M
+Color, Blanco y azul
+Temporada, Otoño
+Genero, Hombre
+Estilo, Casual
+Pais, México
+Marca, Yellow Images
+Modelo, Swearshirt PSD 4556

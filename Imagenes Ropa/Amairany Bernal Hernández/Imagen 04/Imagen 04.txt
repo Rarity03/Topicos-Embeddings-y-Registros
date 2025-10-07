@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, 12
+Color, Gris
+Temporada, 
+Genero, Mujer
+Estilo,
+Pais, USA
+Marca, Anna Sui
+Modelo, 1124K72

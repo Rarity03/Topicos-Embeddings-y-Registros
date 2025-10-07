@@ -1,0 +1,9 @@
+Tipo, Chaqueta de mezclilla
+Talla, M
+Color, Gris
+Temporada, Invierno 
+Genero, Hombre
+Estilo, Clásico
+Pais, México
+Marca, Optima
+Modelo, Black Jacket 201

@@ -1,0 +1,9 @@
+Tipo: Chamarra
+Talla: M
+Color: Café
+Temporada: Invierno
+Género: Hombre
+Estilo: Formal
+País: Alemania
+Marca: Hugo Boss
+Modelo: Leather Jacket

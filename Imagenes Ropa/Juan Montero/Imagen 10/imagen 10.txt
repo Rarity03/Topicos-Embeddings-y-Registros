@@ -1,0 +1,9 @@
+Tipo, Pantalón de Vestir
+Talla, 32
+Color, Gris
+Temporada, Otoño
+Genero, Hombre
+Estilo, Formal
+Pais, México
+Marca, Robert's
+Modelo, Anatomic Technology RRFCPASHXL0001

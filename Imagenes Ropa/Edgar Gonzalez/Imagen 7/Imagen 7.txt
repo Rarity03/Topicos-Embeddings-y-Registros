@@ -1,0 +1,9 @@
+Tipo: Blusa de Seda
+Talla: M
+Color: Rosa pastel
+Temporada: Primavera
+Género: Femenino
+Estilo: Romántico
+País: China
+Marca: "Silk Bloom"
+Modelo: "Cherry Blossom"

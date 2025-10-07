@@ -1,0 +1,9 @@
+Tipo, Pantalon
+Talla, 30
+Color, Rosa
+Temporada, Primavera
+Genero, Mujer
+Estilo,
+Pais, USA
+Marca, Anna Sui
+Modelo, 624T40

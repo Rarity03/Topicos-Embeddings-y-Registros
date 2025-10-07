@@ -1,0 +1,17 @@
+Tipo: Shorts deportivos
+
+Talla: L
+
+Color: Negro
+
+Temporada: Verano
+
+Género: Masculino
+
+Estilo: Deportivo / Tenis
+
+País: China
+
+Marca: Wilson
+
+Modelo: Court Challenger

@@ -1,0 +1,9 @@
+Tipo, Trusa de Algodón
+Talla, M
+Color, Blanco
+Temporada, Primavera/Verano
+Genero, Hombre
+Estilo, Interior
+Pais, México
+Marca, Fruit Of The Loom
+Modelo, 4P7601M.7TT

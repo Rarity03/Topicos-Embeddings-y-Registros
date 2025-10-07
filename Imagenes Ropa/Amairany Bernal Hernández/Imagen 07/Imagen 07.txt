@@ -1,0 +1,9 @@
+Tipo, Gorro
+Talla, 
+Color, Verde
+Temporada, Invierno
+Genero, Unisex
+Estilo,
+Pais, China
+Marca, Anna Sui
+Modelo, 725Q90

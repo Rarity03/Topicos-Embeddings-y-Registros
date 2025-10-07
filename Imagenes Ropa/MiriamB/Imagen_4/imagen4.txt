@@ -1,0 +1,9 @@
+Tipo: Chamarra Cálida De Terciopelo Con Capucha
+Talla: S
+Color: Beige
+Temporada: Invierno
+Género: Mujer
+Estilo: Casual
+País: China
+Marca: Alan
+Modelo: Generic

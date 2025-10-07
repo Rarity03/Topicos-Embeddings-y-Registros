@@ -1,0 +1,9 @@
+Tipo: Camisa
+Talla: M
+Color: Azul
+Temporada: Verano
+Género: Hombre
+Estilo: Casual
+País: México
+Marca: Zara
+Modelo: Slim Fit

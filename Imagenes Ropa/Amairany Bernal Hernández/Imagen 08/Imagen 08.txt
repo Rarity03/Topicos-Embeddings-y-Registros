@@ -1,0 +1,9 @@
+Tipo, Polo
+Talla, L
+Color, Negro
+Temporada, 
+Genero, Hombre
+Estilo,
+Pais, 
+Marca, Lanvin
+Modelo, 

@@ -1,0 +1,9 @@
+Tipo: Chaqueta / Abrigo de invierno térmico
+Talla: Regular
+Color: Marrón
+Temporada: Invierno
+Género: Hombre
+Estilo: Formal / Informal / Casual / Deportivo / Aire Libre
+País: China
+Marca: Genérico
+Modelo: Genérico

@@ -1,0 +1,9 @@
+Tipo, Playera con Botones
+Talla, M
+Color, Verde
+Temporada, Verano 
+Genero, Mujer
+Estilo, Tejida
+Pais, México
+Marca, Cuidado Con el Perro
+Modelo, 103250613020125

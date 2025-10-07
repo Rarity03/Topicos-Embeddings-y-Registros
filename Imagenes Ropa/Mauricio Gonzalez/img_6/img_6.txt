@@ -1,0 +1,9 @@
+Tipo: Playera
+Talla: Mediana
+Color: Negro
+Temporada: Otoño
+Género: Hombre
+Estilo: Casual
+País: India
+Marca: Tommy Hilfiger
+Modelo: MW0MW36498

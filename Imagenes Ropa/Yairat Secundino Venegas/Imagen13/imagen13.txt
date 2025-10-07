@@ -1,0 +1,9 @@
+Tipo: Pantalón deportivo
+Talla: M
+Color: Gris oscuro
+Temporada: Todo el año
+Género: Hombre
+Estilo: Deportivo
+País: Estados Unidos
+Marca: Adidas
+Modelo: Jogger Fit

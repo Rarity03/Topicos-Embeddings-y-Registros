@@ -1,0 +1,9 @@
+Tipo: Suéter de Punto
+Talla: XL
+Color: Verde bosque
+Temporada: Invierno
+Género: Masculino
+Estilo: Rústico
+País: Noruega
+Marca: "Nordic Knit"
+Modelo: "Forest Hearth"

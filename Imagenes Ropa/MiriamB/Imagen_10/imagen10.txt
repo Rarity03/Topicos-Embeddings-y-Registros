@@ -1,0 +1,9 @@
+Tipo: Pantalones Deportivos Rectos De Poliéster
+Talla: S
+Color: Black
+Temporada: Verano
+Género: Mujer
+Estilo: Deportivo
+País: China
+Marca: Genetic
+Modelo: 2362247501001

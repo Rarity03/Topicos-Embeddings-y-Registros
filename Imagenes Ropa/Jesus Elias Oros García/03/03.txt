@@ -1,0 +1,13 @@
+Tipo: Tenis de piel
+
+Talla: 25 cm, 26 cm, 26.5 cm, 27.5 cm, 28 cm, 29 cm
+
+Color: Negro
+
+Estilo: Casual
+
+Marca: Tommy Hilfiger
+
+Temporada: continua
+
+Género: Hombre

@@ -1,0 +1,9 @@
+Tipo, Jeans
+Talla, 32
+Color, Azul Marino
+Temporada, Otoño
+Genero, Hombre
+Estilo, Casual
+Pais, México
+Marca, Cuidado con el Perro
+Modelo, Dark Blue Jeans DBJ278

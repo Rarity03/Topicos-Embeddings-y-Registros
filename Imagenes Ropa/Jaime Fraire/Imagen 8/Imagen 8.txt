@@ -1,0 +1,17 @@
+Tipo: Camiseta de manga corta
+
+Talla: S
+
+Color: Blanco con estampado de estrellas azules
+
+Temporada: Primavera / Verano
+
+Género: Femenino
+
+Estilo: Urbano / Casual
+
+País: México
+
+Marca: Starlight Apparel
+
+Modelo: Stellar Tee

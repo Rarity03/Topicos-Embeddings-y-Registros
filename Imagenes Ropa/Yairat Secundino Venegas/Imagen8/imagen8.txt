@@ -1,0 +1,9 @@
+Tipo: Blusa
+Talla: S
+Color: Amarillo
+Temporada: Primavera
+Género: Mujer
+Estilo: Romántico
+País: Colombia
+Marca: Studio F
+Modelo: Floral Top

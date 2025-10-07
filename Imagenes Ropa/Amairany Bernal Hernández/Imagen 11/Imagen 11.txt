@@ -1,0 +1,9 @@
+Tipo, Abrigo
+Talla, 42
+Color, Negro
+Temporada, Invierno 
+Genero, Mujer
+Estilo, Oversize
+Pais, Francia
+Marca, Isabel Marant
+Modelo,

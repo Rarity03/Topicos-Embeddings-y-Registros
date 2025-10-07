@@ -1,0 +1,9 @@
+Tipo: Vestido
+Talla: S
+Color: Rojo
+Temporada: Primavera
+Género: Mujer
+Estilo: Elegante
+País: Italia
+Marca: Gucci
+Modelo: Evening Dress

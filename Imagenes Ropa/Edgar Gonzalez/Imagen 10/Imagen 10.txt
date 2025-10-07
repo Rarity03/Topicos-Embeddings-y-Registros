@@ -1,0 +1,9 @@
+Tipo: Abrigo Largo de Lana
+Talla: M
+Color: Camel
+Temporada: Invierno
+Género: Femenino
+Estilo: Sofisticado
+País: Italia
+Marca: "Capote Classico"
+Modelo: "Elegance Wool"

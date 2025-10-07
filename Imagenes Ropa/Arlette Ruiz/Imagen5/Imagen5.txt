@@ -1,0 +1,9 @@
+Tipo: Jeans
+Talla: XXL
+Color: Azul
+Temporada: 
+Género: Mujer
+Estilo: Pierna ancha
+País: 
+Marca: Roswear
+Modelo:

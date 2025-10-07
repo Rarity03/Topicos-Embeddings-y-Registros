@@ -1,0 +1,9 @@
+Tipo: Chamarra
+Talla: XS
+Color: Azul Marino
+Temporada: 
+Genero: Hombre 
+Estilo: Gamuza
+País: México
+Marca: C&A
+Modelo: 3108069

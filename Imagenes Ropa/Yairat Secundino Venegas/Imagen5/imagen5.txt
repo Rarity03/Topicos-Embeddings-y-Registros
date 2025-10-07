@@ -1,0 +1,9 @@
+Tipo: Falda
+Talla: M
+Color: Verde
+Temporada: Verano
+Género: Mujer
+Estilo: Casual
+País: Francia
+Marca: Chanel
+Modelo: Mini Skirt
