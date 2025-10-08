@@ -1,0 +1,9 @@
+Tipo: Vestido 
+Talla: G
+Color: Electrum
+Temporada: Primavera
+Genero: Mujer
+Estilo: Elegante
+País: México
+Marca: SHEIN
+Modelo: 8969565

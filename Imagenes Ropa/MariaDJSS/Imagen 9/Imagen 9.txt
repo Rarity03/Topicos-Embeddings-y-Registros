@@ -1,0 +1,9 @@
+Tipo, Chaleco de punto
+Talla, 15
+Color, Marron con camel
+Temporada, Otoño
+Genero, Hombre
+Estilo, Casual
+Pais, Italia
+Marca, Ess
+Modelo, 64719

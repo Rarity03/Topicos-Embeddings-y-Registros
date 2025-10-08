@@ -1,0 +1,11 @@
+Tipo: Chamarra de piel de borrego
+Talla: CH | M | G | XG | 2XG
+Color: Marrón
+Temporada: Otoño/Invierno
+Genero: Hombre
+Estilo: Ranchero
+Pais: Mexico
+Marca: Onix
+Modelo: Malboro
+Precio: 4950
+Stock: 1

@@ -1,0 +1,9 @@
+Tipo: Blusa manga larga
+Talla: M
+Color: Verde olivo
+Temporada: Otoño
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: H&M
+Modelo: 8654885

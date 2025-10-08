@@ -66,6 +66,48 @@ def construir_descripcion(row):
     
     return ". ".join(descripcion) + "."
 
+def asignar_precio_realista(row):
+    tipo_prenda = str(row.get('Tipo', '')).lower()
+    
+    precios_por_tipo = {
+        'playera': [150, 600], 'camiseta': [150, 600], 'polo': [250, 800],
+        'top': [120, 550], 'crop': [150, 600],
+
+        'blusa': [250, 1200], 'camisa': [300, 1300], 'camisola': [200, 700],
+        
+        'sudadera': [400, 1800], 'hoodie': [450, 2000],
+        'suéter': [350, 1700], 'sweater': [350, 1700], 'jersey': [350, 1700], 'cardigan': [400, 1800],
+
+        'pantalón': [450, 2200], 'pantalon': [450, 2200], 'pants': [400, 1500], 'jean': [500, 2500],
+        'short': [250, 800], 'bermuda': [300, 900],
+        'legging': [200, 750],
+
+        'falda': [300, 1500],
+        'vestido': [500, 3500],
+
+        'abrigo': [1200, 5000], 'chamarra': [800, 4500], 'chaqueta': [800, 4500], 'cazadora': [900, 4000],
+        'gabardina': [1000, 4800], 'impermeable': [600, 2500], 'chubasquero': [500, 2000],
+        'saco': [900, 4500], 'blazer': [850, 4200], 'tweed': [1000, 5000],
+        'chaleco': [350, 1800], 'capa': [400, 2000],
+        
+        'conjunto': [700, 4000], 'chándal': [800, 3500], 'traje': [1500, 6000],
+        'pijama': [300, 1200], 'mameluco': [300, 900], 'trusa': [100, 400],
+        'mono': [400, 1600], 'corset': [300, 1200], 'kimono': [450, 1800],
+
+        'zapato': [600, 3000], 'tenis': [700, 4000], 'bota': [800, 4500], 'sandalia': [300, 1500],
+
+        'bolsa': [400, 3500], 'cinturón': [200, 1000], 'lentes': [250, 2000],
+        'gorro': [150, 700], 'gorra': [200, 800],
+        'bufanda': [180, 900], 'pashmina': [200, 1000],
+        'guantes': [150, 600], 'calcetines': [80, 300], 'calceta': [80, 300], 'medias': [100, 400],
+        'corbata': [250, 1200], 'moño': [150, 500],
+    }
+    
+    for tipo_base, rango in precios_por_tipo.items():
+        if tipo_base in tipo_prenda:
+            return round(np.random.uniform(rango[0], rango[1]), 2)
+
+    return round(np.random.uniform(300, 1500), 2)
 
 def generar_embeddings(df):
 
@@ -117,6 +159,10 @@ if __name__ == "__main__":
     if embeddings.size > 0:
         np.save('embeddings_ropa.npy', embeddings)
         df_validos = df.loc[indices_validos].reset_index(drop=True)
+
+        df_validos['price'] = df_validos.apply(asignar_precio_realista, axis=1)
+        df_validos['stock'] = np.random.randint(0, 150, size=len(df_validos))
+
         df_validos.to_csv('metadata_ropa.csv', index_label='embedding_id')
         
         print(f"Se generaron y guardaron {len(embeddings)} embeddings.")

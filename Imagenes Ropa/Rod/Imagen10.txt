@@ -1,0 +1,11 @@
+Tipo: Pantalon tactico impermeable
+Talla: 3XL | 2XL | L | M | S | XL|
+Color: Caqui
+Temporada: Otoño/Invierno
+Genero: Hombre
+Estilo: Urbano
+Pais: Mexico
+Marca: Hewo
+Modelo: 
+Precio: 647
+Stock: 2

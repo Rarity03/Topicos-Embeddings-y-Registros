@@ -1,0 +1,9 @@
+Tipo, Sueter
+Talla, 35
+Color, Gris con blanco y negro
+Temporada, Invierno
+Genero, Hombre
+Estilo, Casual
+Pais, Usa
+Marca, Amazon ssentials
+Modelo, 85216

@@ -1,0 +1,9 @@
+Tipo, Camiseta
+Talla, 15
+Color, Arena
+Temporada, Verano
+Genero, Hombre
+Estilo, Casual
+Pais, Usa
+Marca, Levis
+Modelo, 82465

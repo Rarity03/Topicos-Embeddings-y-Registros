@@ -1,0 +1,11 @@
+Tipo: Cazadora
+Talla: XS | S | M | L | XL | XXL
+Color: Rojo
+Temporada: 
+Genero: Hombre
+Estilo: Formal | Chic
+Pais: Mexico
+Marca: Val-de-Grace
+Modelo: Dante devil Red
+Precio: 6000
+Stock: 

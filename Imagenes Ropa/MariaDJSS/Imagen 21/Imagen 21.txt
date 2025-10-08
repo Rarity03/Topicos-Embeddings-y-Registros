@@ -1,0 +1,9 @@
+Tipo, Sudadera con capucha
+Talla, 20
+Color, Naranja
+Temporada, Otoño
+Genero, Hombre
+Estilo, Deportivo
+Pais, Usa	
+Marca, Mclaren
+Modelo, 96341

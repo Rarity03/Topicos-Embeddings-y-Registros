@@ -1,0 +1,9 @@
+Tipo: Blusa con mangas largas
+Talla: EXG
+Color: Azul
+Temporada: Primavera
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: H&M
+Modelo: 85545652

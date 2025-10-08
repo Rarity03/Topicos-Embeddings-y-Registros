@@ -1,0 +1,9 @@
+Tipo, Camisa
+Talla, CH
+Color, Blanca con rayas
+Temporada, Todas
+Genero, Hombre
+Estilo, Casual
+Pais, USA
+Marca, 
+Modelo, 

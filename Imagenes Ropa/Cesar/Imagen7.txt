@@ -1,0 +1,11 @@
+Tipo: Leggins
+Talla: XS | S | L | XL | XXL
+Color: Negro | Chocolate
+Temporada: 
+Genero: Mujer
+Estilo: Deportivo
+Pais: 
+Marca: Lefties
+Modelo: Legging deportivo flare
+Precio: 280.42
+Stock: 

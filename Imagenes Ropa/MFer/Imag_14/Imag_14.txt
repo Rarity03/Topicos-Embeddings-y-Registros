@@ -1,0 +1,9 @@
+Tipo: Blusa con mangas largas
+Talla: EXG
+Color: Beige
+Temporada: Primavera
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: TED BAKER
+Modelo: 56952544

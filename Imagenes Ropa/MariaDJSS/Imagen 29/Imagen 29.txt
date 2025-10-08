@@ -1,0 +1,9 @@
+Tipo, Abrigo
+Talla, 15
+Color, Gris carbon
+Temporada, Invierno
+Genero, Hombre
+Estilo, Formal
+Pais, Usa	
+Marca, Sm
+Modelo, 75300

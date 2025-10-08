@@ -1,0 +1,9 @@
+Tipo, Sueter
+Talla, 35
+Color, Rojo
+Temporada, Invierno
+Genero, Hombre
+Estilo, Casual
+Pais, Usa
+Marca, Amazon sssentials
+Modelo, 76194

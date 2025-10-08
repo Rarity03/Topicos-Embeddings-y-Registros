@@ -1,0 +1,9 @@
+Tipo, Falda
+Talla, 13
+Color, Rojo con manchas blancas
+Temporada, Otoño 
+Genero, Mujer
+Estilo, 60s
+Pais, USA
+Marca, Oggi
+Modelo, 12342

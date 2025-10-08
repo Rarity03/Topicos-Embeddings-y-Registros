@@ -1,0 +1,9 @@
+Tipo, Playera
+Talla, M
+Color, Azul celeste
+Temporada, Verano
+Genero, Hombre
+Estilo, Casual
+Pais, USA
+Marca, 
+Modelo, 

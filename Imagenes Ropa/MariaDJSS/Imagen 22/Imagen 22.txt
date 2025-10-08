@@ -1,0 +1,9 @@
+Tipo, Corbata
+Talla, 1
+Color, Rojo con estampado de rostros
+Temporada, Invierno
+Genero, Hombre
+Estilo, Festivo
+Pais, Usa	
+Marca, Mc
+Modelo, 96301

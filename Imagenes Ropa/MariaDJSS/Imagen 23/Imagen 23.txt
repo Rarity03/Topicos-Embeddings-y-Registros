@@ -1,0 +1,9 @@
+Tipo, Mameluco
+Talla, 3
+Color, Gris claro y blanco
+Temporada, Invierno
+Genero, Hombre
+Estilo, Funcional
+Pais, Usa	
+Marca, Say
+Modelo, 95123

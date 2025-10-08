@@ -1,0 +1,11 @@
+Tipo: Camisola
+Talla: XS | S | M | L | XL | XXL
+Color: Verde militar
+Temporada: 
+Genero: Hombre
+Estilo: Casual
+Pais: Mexico
+Marca: Val-de-Grace
+Modelo: Jared gamuza verde militar
+Precio: 3500
+Stock: 

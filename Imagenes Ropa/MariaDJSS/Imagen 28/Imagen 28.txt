@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, 12
+Color, Rojo con estampado de lunares blancos
+Temporada, Primavera
+Genero, Mujer
+Estilo, Retro
+Pais, Usa	
+Marca, Sm
+Modelo, 95172

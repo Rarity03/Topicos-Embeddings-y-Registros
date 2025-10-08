@@ -1,0 +1,9 @@
+Tipo, Playera
+Talla, CH
+Color, Naranja colorida
+Temporada, Todas
+Genero, Hombre
+Estilo, Casual
+Pais, USA
+Marca, 
+Modelo, 

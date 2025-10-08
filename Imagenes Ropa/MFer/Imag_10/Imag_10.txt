@@ -1,0 +1,9 @@
+Tipo: Falda larga
+Talla: M
+Color: Café con blanco
+Temporada: Primavera-Otoño
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: SHEIN
+Modelo: 56326625

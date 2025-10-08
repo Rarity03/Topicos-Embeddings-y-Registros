@@ -1,0 +1,11 @@
+Tipo: Chamarra
+Talla: XS | S | M | L | XL | XXL
+Color: Negro
+Temporada: 
+Genero: Mujer
+Estilo: Casual
+Pais: Mexico
+Marca: Val-de-Grace
+Modelo: Frida darkest black
+Precio: 2999
+Stock: 

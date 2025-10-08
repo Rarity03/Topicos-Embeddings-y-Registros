@@ -1,0 +1,11 @@
+Tipo: Playera de manga larga
+Talla: CH | GD | MD | XG
+Color: Negra
+Temporada: Otoño
+Genero: Hombre
+Estilo: Casual
+Pais: Mexico
+Marca: Optima
+Modelo: Heavy
+Precio: 150
+Stock: 5

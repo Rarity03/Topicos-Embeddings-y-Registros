@@ -1,0 +1,9 @@
+Tipo: Blusa con mangas largas
+Talla: EXG
+Color: Blanco
+Temporada: Primavera
+Genero: Mujer
+Estilo: Elegante
+País: México
+Marca: TED BAKER
+Modelo: 56963245

@@ -1,0 +1,9 @@
+Tipo, Camiseta con estampado
+Talla, 13
+Color, Rojo con grafico en rojo, blanco y gris
+Temporada, Verano
+Genero, Hombre
+Estilo, Casual
+Pais, Ital	
+Marca, It
+Modelo, 36984

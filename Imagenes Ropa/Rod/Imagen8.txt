@@ -1,0 +1,11 @@
+Tipo: Chamarra impermeable
+Talla: XL | X | G
+Color: Azul
+Temporada: Primavera/Verano
+Genero: Hombre
+Estilo: Urbano
+Pais: Mexico
+Marca: Columbia
+Modelo: 
+Precio: 1399
+Stock: 1

@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, 12
+Color, Amarillo brillante
+Temporada, Verano
+Genero, Mujer
+Estilo, Casual
+Pais, Usa	
+Marca, Phc
+Modelo, 89630

@@ -1,0 +1,9 @@
+Tipo: Vestido 
+Talla: CH
+Color: Azul
+Temporada: Primavera
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: Pull&Bear
+Modelo: 89565544

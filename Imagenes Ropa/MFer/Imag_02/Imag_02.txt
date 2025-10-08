@@ -1,0 +1,9 @@
+Tipo: Vestido de verano
+Talla: CH
+Color: Blanco con detalles negros
+Temporada: Verano
+Genero: Mujer
+Estilo: Elegante
+País: México
+Marca: SHEIN
+Modelo: 1846565

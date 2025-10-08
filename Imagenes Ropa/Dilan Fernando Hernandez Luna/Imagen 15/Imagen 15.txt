@@ -1,0 +1,9 @@
+Tipo, Sudadera 
+Talla, 	X
+Color, Café 
+Temporada, Invierno
+Genero, Hombre
+Estilo, Bordado
+Pais, USA
+Marca, 
+Modelo, 

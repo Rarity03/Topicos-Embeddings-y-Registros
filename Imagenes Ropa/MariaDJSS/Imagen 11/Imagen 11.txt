@@ -1,0 +1,9 @@
+Tipo, Chaqueta
+Talla, 15
+Color, Cafe y forro de borrego beige
+Temporada, Otoño
+Genero, Hombre
+Estilo, Casual
+Pais, México
+Marca, Especial
+Modelo, 84265

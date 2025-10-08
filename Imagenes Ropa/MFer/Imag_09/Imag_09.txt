@@ -1,0 +1,9 @@
+Tipo: Blusa manga corta
+Talla: M
+Color: Azul con rayas blancas
+Temporada: Primavera
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: SHEIN
+Modelo: 5895555

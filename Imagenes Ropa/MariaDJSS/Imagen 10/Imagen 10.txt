@@ -1,0 +1,9 @@
+Tipo, Chaleco
+Talla, 13
+Color, Azul marino
+Temporada, Otoño
+Genero, Hombre
+Estilo, Casual
+Pais, Guatemala
+Marca, Esan
+Modelo, 37915

@@ -1,0 +1,9 @@
+Tipo, Chaqueta bomber
+Talla, 12
+Color, Verde militar
+Temporada, Otoño 
+Genero, Hombre
+Estilo, Deportivo
+Pais, Usa
+Marca, Unica
+Modelo, 68458

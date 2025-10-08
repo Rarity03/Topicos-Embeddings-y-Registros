@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, CH
+Color, Negro
+Temporada, Todas
+Genero, Mujer
+Estilo, Verano
+Pais, USA
+Marca, 
+Modelo, 

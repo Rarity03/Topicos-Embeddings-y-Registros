@@ -1,0 +1,9 @@
+Tipo, Sueter
+Talla, 20
+Color, Negro
+Temporada, Invierno
+Genero, Hombre
+Estilo, Casual
+Pais, Usa
+Marca, Essentials
+Modelo, 13795

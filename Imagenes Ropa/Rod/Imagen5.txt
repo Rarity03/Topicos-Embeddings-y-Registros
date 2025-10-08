@@ -1,0 +1,11 @@
+Tipo: Polo
+Talla: S | M | L | G|
+Color: Blanco
+Temporada: Primavera
+Genero: Hombre
+Estilo: Casual
+Pais: Mexico
+Marca: BOSS
+Modelo: 
+Precio: 2945
+Stock: 3

@@ -1,0 +1,9 @@
+Tipo, sudadera
+Talla, M
+Color, NEGRA CON ESTAMPA
+Temporada, INVIERNO
+Genero, Hombre
+Estilo, Casual
+Pais, USA
+Marca, 
+Modelo, 

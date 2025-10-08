@@ -1,0 +1,11 @@
+Tipo: Pantalon Cargo
+Talla: 26 | 28 | 30 | 32 | 34 | 36 | 38
+Color: Negro
+Temporada: 
+Genero: Hombre
+Estilo: Casual | Urbano
+Pais: Mexico
+Marca: Val-de-Grace
+Modelo: Cargo darkest black leahter pants
+Precio: 3500
+Stock: 

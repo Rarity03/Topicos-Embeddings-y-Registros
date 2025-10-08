@@ -1,0 +1,11 @@
+Tipo: Camisa Slim fit
+Talla: S | G
+Color: Negro
+Temporada: Otoño
+Genero: Hombre
+Estilo: Formal
+Pais: Mexico
+Marca: Tommy Hilfiger
+Modelo: 
+Precio: 1299
+Stock: 1

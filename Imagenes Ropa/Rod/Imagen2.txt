@@ -1,0 +1,11 @@
+Tipo: Chamarra imperneable
+Talla: M 
+Color: Verde
+Temporada: Otoño/Inivierno
+Genero: Hombre
+Estilo: hike
+Pais: Mexico
+Marca: Arc'teryx
+Modelo: Beta
+Precio: 9899
+Stock: 3

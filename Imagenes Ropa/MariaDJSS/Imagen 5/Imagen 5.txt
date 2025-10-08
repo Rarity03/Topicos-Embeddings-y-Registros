@@ -1,0 +1,9 @@
+Tipo, Camisa de punto
+Talla, 40
+Color, Gris
+Temporada, Primavera
+Genero, Hombre
+Estilo, Casual
+Pais, Reino Unido
+Marca, Alexander mcqueen
+Modelo, 95143

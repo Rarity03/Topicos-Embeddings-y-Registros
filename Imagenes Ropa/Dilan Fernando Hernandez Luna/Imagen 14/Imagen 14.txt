@@ -1,0 +1,9 @@
+Tipo, Conjunto
+Talla, XL
+Color, Verde rosa rayas
+Temporada, Verano
+Genero, Hombre
+Estilo, Playa
+Pais, USA
+Marca, 
+Modelo, 

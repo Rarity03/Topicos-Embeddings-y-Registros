@@ -1,0 +1,9 @@
+Tipo, Sueter
+Talla, 12
+Color, Amarillo mostaza
+Temporada, Otoño
+Genero, Mujer
+Estilo, Casual
+Pais, Usa	
+Marca, Yas
+Modelo, 95175

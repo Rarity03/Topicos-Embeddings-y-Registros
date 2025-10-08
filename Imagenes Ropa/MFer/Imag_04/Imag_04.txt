@@ -1,0 +1,9 @@
+Tipo: Vestido 
+Talla: CH
+Color: Azul
+Temporada: Invierno
+Genero: Mujer
+Estilo: Elegante
+País: México
+Marca: Pull&Bear
+Modelo: 18456965

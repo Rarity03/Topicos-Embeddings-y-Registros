@@ -1,0 +1,9 @@
+Tipo, Sudadera con capucha
+Talla, 20
+Color, Azul rey
+Temporada, Otoño
+Genero, Hombre
+Estilo, Retro
+Pais, Mexico	
+Marca, Kell
+Modelo, 09175

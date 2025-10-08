@@ -1,0 +1,11 @@
+Tipo: camiseta
+Talla: S | M | L | XXL 
+Color: Beige | Negro | Rosa | Verde militar | gris oscuro | caqui | azul marino | rojo óxido
+Temporada: Summer
+Genero: Mujer
+Estilo: Casual | Moderno
+Pais: 
+Marca: PRETTYGARDEN
+Modelo: DRY-EX
+Precio: 699.40
+Stock: 

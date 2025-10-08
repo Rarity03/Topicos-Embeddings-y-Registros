@@ -1,0 +1,9 @@
+Tipo, Camisa
+Talla, G
+Color, Naranja colorida
+Temporada, Primavera
+Genero, Hombre
+Estilo, Rave
+Pais, USA
+Marca, 
+Modelo, 

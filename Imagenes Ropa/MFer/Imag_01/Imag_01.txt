@@ -1,0 +1,9 @@
+Tipo: Chamarra
+Talla: G
+Color: Verde caqui
+Temporada: 
+Genero: Hombre
+Estilo: Deportivo (Senderismo)
+País: México
+Marca: Generic
+Modelo: 12835656

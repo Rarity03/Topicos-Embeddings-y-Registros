@@ -1,0 +1,9 @@
+Tipo, Confunto
+Talla, M
+Color, Manchas
+Temporada, Todas
+Genero, Hombre
+Estilo, Disco
+Pais, USA
+Marca, 
+Modelo, 

@@ -1,0 +1,9 @@
+Tipo, Pijama de dos piezas
+Talla, 15
+Color, Blanco
+Temporada, Verano
+Genero, Mujer
+Estilo, Casual
+Pais, Usa	
+Marca, Say
+Modelo, 95123

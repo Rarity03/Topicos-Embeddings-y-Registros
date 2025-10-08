@@ -1,0 +1,9 @@
+Tipo, Camisa
+Talla, M
+Color, Verde con flores
+Temporada, Otoño 
+Genero, Hombre
+Estilo, hawai
+Pais, USA
+Marca, Oggi
+Modelo, mdl60

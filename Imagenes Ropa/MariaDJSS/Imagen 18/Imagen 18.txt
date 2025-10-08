@@ -1,0 +1,9 @@
+Tipo, Chaqueta
+Talla, 13
+Color, Azul marino oscuro
+Temporada, Primavera
+Genero, Hombre
+Estilo, Moderno
+Pais, Usa	
+Marca, Lik
+Modelo, 32147

@@ -1,0 +1,9 @@
+Tipo: Vestido 
+Talla: M
+Color: Café
+Temporada: Otoño
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: H&M
+Modelo: 1845555

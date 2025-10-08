@@ -1,0 +1,9 @@
+Tipo, Playera
+Talla, CH
+Color, Rosa
+Temporada, Verano
+Genero, Mujer
+Estilo, Casual
+Pais, USA
+Marca, 
+Modelo, 

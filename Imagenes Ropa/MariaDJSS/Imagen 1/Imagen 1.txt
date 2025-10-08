@@ -1,0 +1,9 @@
+Tipo, Saco
+Talla, 13
+Color, Azul marino
+Temporada, Otoño 
+Genero, Hombre
+Estilo, Formal
+Pais, Italia
+Marca, Zegna
+Modelo, 52496

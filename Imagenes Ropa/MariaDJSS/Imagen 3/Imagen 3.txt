@@ -1,0 +1,9 @@
+Tipo, Camisa de vestir
+Talla, 40
+Color, Negro
+Temporada, Primavera
+Genero, Hombre
+Estilo, Formal
+Pais, Reino unido
+Marca, Alexander mcqeen
+Modelo, 86845

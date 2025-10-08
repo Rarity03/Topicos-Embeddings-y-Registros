@@ -1,0 +1,11 @@
+Tipo: Camiseta deportiva de tirantes 
+Talla: XS | S | M | L | XL | XXL
+Color: Negro | Chocolate | Arena Claro
+Temporada: 
+Genero: Mujer
+Estilo: Deportivo
+Pais: 
+Marca: Lefties
+Modelo: Camiseta deportiva nadadora
+Precio: 129.31
+Stock: 

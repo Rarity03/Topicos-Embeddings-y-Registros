@@ -1,0 +1,11 @@
+Tipo: chaleco de piel
+Talla: XS | S | M | L | XL | XXL
+Color: Negro
+Temporada: 
+Genero: Hombre
+Estilo: Urbano
+Pais: Mexico
+Marca: Val-de-Grace
+Modelo: Wild darkest black
+Precio: 3200
+Stock: 

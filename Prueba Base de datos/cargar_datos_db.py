@@ -44,7 +44,7 @@ def cargar_datos():
                             (
                                 cleaned_row['Tipo'], cleaned_row['Tipo'], cleaned_row['Talla'], cleaned_row['Modelo'], cleaned_row['Color'],
                                 cleaned_row['Temporada'], cleaned_row['Estilo'], cleaned_row['Marca'], cleaned_row['Genero'],
-                                cleaned_row['Pais'], cleaned_row['Ruta_Imagen'], 0.00, 0 
+                                cleaned_row['Pais'], cleaned_row['Ruta_Imagen'], cleaned_row['price'], cleaned_row['stock']
                             )
                         )
                         product_id = cur.fetchone()[0]
@@ -62,4 +62,3 @@ def cargar_datos():
 
 if __name__ == "__main__":
     cargar_datos()
-

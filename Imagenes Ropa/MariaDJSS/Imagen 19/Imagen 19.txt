@@ -1,0 +1,9 @@
+Tipo, Falda
+Talla, 16
+Color, Negro
+Temporada, Primavera
+Genero, Mujer
+Estilo, Juvenil
+Pais, Usa	
+Marca, Kil
+Modelo, 85207

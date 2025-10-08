@@ -1,0 +1,9 @@
+Tipo, Vermuda tactica
+Talla, G
+Color, Gris
+Temporada, Verano
+Genero, Hombre
+Estilo, Casual
+Pais, USA
+Marca, 
+Modelo, 

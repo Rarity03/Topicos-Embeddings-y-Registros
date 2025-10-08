@@ -1,0 +1,9 @@
+Tipo: Suéter
+Talla: CH
+Color: Azul claro
+Temporada: Invierno
+Genero: Mujer
+Estilo: Elegante
+País: México
+Marca: TED BAKER
+Modelo: 5695255

@@ -1,0 +1,9 @@
+Tipo, Camisa de punto
+Talla, 40
+Color, Azul marino
+Temporada, Primavera
+Genero, Hombre
+Estilo, Casual
+Pais, Reino unido
+Marca, Alexander mcqueen
+Modelo, 14758

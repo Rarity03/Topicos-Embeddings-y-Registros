@@ -1,0 +1,11 @@
+Tipo: Chaqueta impermeable
+Talla: M | L | XL | 2XL | 3XL | 4XL
+Color: Blackandpink
+Temporada: Otoño
+Genero: Mujer
+Estilo: Urbano
+Pais: Mexico
+Marca: Generic
+Modelo: 
+Precio: 489
+Stock: 2

@@ -1,0 +1,9 @@
+Tipo, Sudadera
+Talla, grande
+Color, Azul claro
+Temporada, Todas
+Genero, Hombre
+Estilo, Casual
+Pais, USA
+Marca, 
+Modelo, 

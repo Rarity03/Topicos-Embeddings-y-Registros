@@ -1,0 +1,9 @@
+Tipo, Cardigan
+Talla, 15
+Color, Negro
+Temporada, Invierno
+Genero, Hombre
+Estilo, Casual
+Pais, Usa	
+Marca, Sm
+Modelo, 06102

@@ -1,0 +1,11 @@
+Tipo:Polo
+Talla: S | M | L XL
+Color: Gris
+Temporada: Primavera
+Genero: Hombre
+Estilo: Casual
+Pais: Mexico
+Marca: Myxike
+Modelo: 
+Precio: 289
+Stock: 1

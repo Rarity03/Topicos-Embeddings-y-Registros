@@ -1,0 +1,9 @@
+Tipo, Camiseta con estampado
+Talla, 13
+Color, Rojo con grafico multicolor
+Temporada, Verano
+Genero, Hombre
+Estilo, Casual
+Pais, Ital	
+Marca, It
+Modelo, 78945

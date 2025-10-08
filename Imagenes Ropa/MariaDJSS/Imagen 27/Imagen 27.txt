@@ -1,0 +1,9 @@
+Tipo, Vestido
+Talla, 12
+Color, Azul marino
+Temporada, Primavera
+Genero, Mujer
+Estilo, Formal
+Pais, Usa	
+Marca, Levis
+Modelo, 85192

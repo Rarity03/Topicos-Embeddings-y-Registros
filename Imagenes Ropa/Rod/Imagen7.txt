@@ -1,0 +1,11 @@
+Tipo: Chamarra de piel
+Talla: XL | XXL | CH | G
+Color: Café
+Temporada: Otoño/Invierno
+Genero: Hombre
+Estilo: Urbano
+Pais: Mexico
+Marca: Gerhel
+Modelo: 
+Precio: 2790
+Stock: 2

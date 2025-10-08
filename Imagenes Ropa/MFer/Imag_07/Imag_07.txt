@@ -1,0 +1,9 @@
+Tipo: Vestido 
+Talla: M
+Color: Verde agua
+Temporada: Primavera
+Genero: Mujer
+Estilo: Casual
+País: México
+Marca: H&M
+Modelo: 965965

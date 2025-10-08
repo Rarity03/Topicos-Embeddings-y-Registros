@@ -1,0 +1,9 @@
+Tipo, Chamarra
+Talla, 15
+Color, Azul marino con cuello y forro de borrego beige
+Temporada, Invierno
+Genero, Hombre
+Estilo, Casual
+Pais, Usa
+Marca, Levis
+Modelo, 26481

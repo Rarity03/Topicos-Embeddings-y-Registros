@@ -1,0 +1,9 @@
+Tipo, Camiseta de manga larga
+Talla, 15
+Color, Rojo
+Temporada, Otoño
+Genero, Hombre
+Estilo, Casual
+Pais, Italia
+Marca, Italy
+Modelo, 91731
