@@ -149,3 +149,159 @@ CLIP puede usarse para tareas no vistas durante su entrenamiento (*zero-shot*).
 - La descripción textual que obtenga la puntuación de similitud mas alta es la predicción del modelo para esa imagen.
 
 ---
+
+# Script de Generación Masiva de Datos
+
+Este script genera datos ficticios, crea usuarios y credenciales, direcciones, favoritos, comentarios, órdenes y artículos de órdenes usando la librería `Faker` y operaciones en lote con `psycopg2.extras.execute_values`.
+
+---
+
+## Requisitos
+
+- Paquetes Python:
+```bash
+pip install Faker psycopg2-binary tqdm
+```
+
+---
+
+## Configuración
+
+El script define una configuración en la constante `DB_CONFIG`:
+
+```python
+DB_CONFIG = {
+    "dbname": "ropa_db",
+    "user": "postgres",
+    "password": "12345",
+    "host": "localhost",
+    "port": "5434"
+}
+```
+
+Constantes que controlan la generación:
+
+```python
+NUM_USERS_TO_GENERATE = 733_000   # número total de usuarios a insertar
+BATCH_SIZE = 10_000               # tamaño de lote para inserciones en bloque
+NUM_FAVORITES_PER_USER = 5        # número de favoritos por usuario
+NUM_ORDERS_PER_USER = 3           # número de órdenes por usuario
+MAX_ITEMS_PER_ORDER = 5           # máximo de artículos por orden
+PERCENT_USERS_COMMENTING = 0.1    # porcentaje de usuarios que comentan
+NUM_COMMENTS_PER_USER = 4         # número de comentarios por usuario
+
+```
+---
+
+## Estructura general 
+
+1. Importaciones y configuración.
+2. Inicialización de `Faker`.
+3. Funciones:
+   - `generate_users(conn, num_users, batch_size)`
+   - `generate_addresses(conn, user_ids)`
+   - `generate_related_data(conn, user_ids, product_ids)`
+4. `main()` que orquesta la conexión y llamadas.
+
+---
+
+## `generate_users(conn, num_users, batch_size)`
+
+Genera `num_users` usuarios en la tabla `Users` y sus credenciales en `User_Credentials`, usando inserciones por lotes.
+
+**Flujo:**
+
+1. Se abre un cursor y se ejecuta:
+   ```sql
+   SET session_replication_role = replica;
+   ```
+   Deshabilita temporalmente las restricciones de clave foránea y los triggers para la sesión actual.
+
+2. Bucle en `range(0, num_users, batch_size)` con una barra de progreso `tqdm`:
+   - Se crea `users_batch` con tuplas `(first_name, second_name, first_lastname, second_lastname, dob, created_at)`.  
+   - Se usan probabilidades para `second_name` y `second_lastname` (solo a veces se generan).
+   - `Faker` genera `date_of_birth` y `created_at`.
+
+3. Inserción en bloque usando `execute_values` con `RETURNING user_id`:
+   ```python
+   user_ids = execute_values(cur, "INSERT INTO Users (...) VALUES %s RETURNING user_id", users_batch, fetch=True)
+   ```
+   - `execute_values` nos permite insertar los lotes de usuarios.  
+   - `RETURNING user_id` y `fetch=True`, recupera inmediatamente los IDs de los usuarios recién creados para poder insertar sus credenciales asociadas en la siguiente tabla.
+
+4. Generación de credenciales:
+   - Se usa `fake.unique.email()` para asegurar emails únicos.
+   - Las credenciales se insertan en bloque con `execute_values`.
+
+5. `conn.commit()` se ejecuta por cada lote para persistir cambios.
+
+6. Al finalizar, se limpia el historial de `fake.unique`:
+   ```python
+   fake.unique.clear()
+   ```
+
+7. Se restaura:
+   ```sql
+   SET session_replication_role = DEFAULT;
+   ```
+
+**Nota**
+- Usar `fake.unique.email()` puede agotar el espacio único si se generan millones de emails; limpiar con `fake.unique.clear()` es obligatorio al final para liberar memoria y evitar errores.
+
+---
+
+## `generate_addresses(conn, user_ids)`
+
+Genera direcciones para usuarios que aun no tengan alguna.
+
+**Flujo:**
+1. Se consulta `SELECT DISTINCT user_id FROM Addresses` para construir `users_with_address`.
+2. Se calcula `users_needing_address = [uid for uid in user_ids if uid not in users_with_address]`.
+3. Por cada usuario que necesite dirección, se crea una tupla con campos generados por `Faker`.
+4. Inserción en bloque con `execute_values` sobre `Addresses`.
+5. `conn.commit()` al final de la inserción.
+
+---
+
+## `generate_related_data(conn, user_ids, product_ids)`
+
+Genera `Favorites`, `Comments`, `Orders` y `OrderItems` asociados a usuarios y productos existentes.
+Si `user_ids` o `product_ids` están vacíos, la función retorna inmediatamente.
+
+### Favoritos
+- Para cada usuario, se elige un conjunto de productos con `random.choices(product_ids, k=NUM_FAVORITES_PER_USER)` y se convierte a `set(...)` para evitar duplicados en la misma lista.
+- Inserción en bloques con `ON CONFLICT DO NOTHING` para evitar errores por duplicados.
+- Se hacen commits por lotes cuando `favorites_batch` alcanza `BATCH_SIZE`.
+
+### Comentarios
+- Se selecciona un subconjunto de usuarios que comentan: `users_who_comment = random.sample(user_ids, k=int(len(user_ids) * PERCENT_USERS_COMMENTING))`.
+- Para cada usuario que comenta, se generan `NUM_COMMENTS_PER_USER` comentarios con `fake.paragraph(...)` y una fecha `commented_at`.
+- Inserción en bloques y commits por lotes.
+
+### Órdenes y artículos de órdenes
+- Se recuperan precios de productos:
+  ```sql
+  SELECT product_id, price FROM Products
+  ```
+  para formar `product_prices` (diccionario product_id → price).
+- Se recuperan direcciones:
+  ```sql
+  SELECT user_id, address_id FROM Addresses
+  ```
+  para asociar órdenes solo a usuarios que tengan dirección (si no hay dirección, se salta el usuario).
+- Para cada usuario:
+  - Se crea entre 1 y `NUM_ORDERS_PER_USER` órdenes.
+  - Para cada orden se seleccionan entre 1 y `MAX_ITEMS_PER_ORDER` productos (con repetición posible).
+  - Se inserta la orden (`Orders`) y se obtiene `order_id` con `RETURNING`.
+  - Se construye `order_items_batch` con `(order_id, product_id, quantity, price_at_purchase)` y se inserta con `execute_values`.
+- Se asume que el trigger `trigger_update_order_total` actualiza `Orders.total_price`.
+
+---
+
+## Manejo de errores y commits
+
+- El script hace `conn.commit()` regularmente (por lote y al finalizar operaciones importantes). Esto evita transacciones gigantes y libera memoria de la transacción.
+- Captura `psycopg2.OperationalError` en `main()` para errores de conexión y un `except Exception` genérico para otros errores.
+- Dentro de bucles se usan `try/except` (por ejemplo al generar emails únicos) y se `continue` en caso de fallo, evitando que una excepción detenga todo el proceso.
+
+---
