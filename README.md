@@ -1,9 +1,9 @@
 # Cosas a corregir y faltantes
 
 ## Embeddings:
-- [ ] Añadir las imágenes de las personas faltantes (imágenes de DRIVE), formatear y agregar sus metdatos a los existentes.
-- [ ] Crear los nuevos embeddings con las nuevas imágenes.
-- [ ] A los metadatos resultantes de la creación de los embeddings agregarles su precio y stock en dos columnas al final.
+- [✔️] Añadir las imágenes de las personas faltantes (imágenes de DRIVE), formatear y agregar sus metdatos a los existentes.
+- [✔️] Crear los nuevos embeddings con las nuevas imágenes.
+- [✔️] A los metadatos resultantes de la creación de los embeddings agregarles su precio y stock en dos columnas al final.
 
 ---
 
@@ -305,3 +305,4 @@ Si `user_ids` o `product_ids` están vacíos, la función retorna inmediatamente
 - Dentro de bucles se usan `try/except` (por ejemplo al generar emails únicos) y se `continue` en caso de fallo, evitando que una excepción detenga todo el proceso.
 
 ---
+
